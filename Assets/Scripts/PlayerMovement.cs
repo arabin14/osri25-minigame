@@ -1,11 +1,9 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
     private float horizontal;
-    private float speed = 8f;
+    private float speed = 12f;
     private float jumpingPower = 16f;
     private bool isFacingRight = true;
 
@@ -38,9 +36,10 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
+    // Flips the player in direction of movement
     private void Flip() 
     {
-        if (isFacingRight && horizontal < 0f || isFacingRight && horizontal > 0f)
+        if (isFacingRight && horizontal < 0f || !isFacingRight && horizontal > 0f)
         {
             isFacingRight = !isFacingRight;
             Vector3 localScale = transform.localScale;
