@@ -47,4 +47,12 @@ public class PlayerMovement : MonoBehaviour
             transform.localScale = localScale;
         }
     }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "ExitDoor")
+        {
+            Debug.Log("You made it!");
+        }
+    }
 }
