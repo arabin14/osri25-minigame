@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class WinPlayerMovement : MonoBehaviour
 {
     private float horizontal;
     private float speed = 12f;
@@ -11,6 +11,19 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
 
+    // variables for player staying in cinemachine bounds
+    private Vector2 screenBounds;
+    private float playerHalfWidth;
+
+
+    private void Start()
+    {
+        screenBounds = Camera.main.ScreenToWorldPoint(new Vector2(Screen.width, Screen.height));
+        
+        // gets numeric value from center of sprite to right side 
+        // this helps keep all of player in bounds
+        playerHalfWidth = GetComponent<SpriteRenderer>().bounds.extents.x;
+    }
 
 
     // Update is called once per frame
@@ -24,6 +37,13 @@ public class PlayerMovement : MonoBehaviour
         }
 
         Flip();
+
+        // movement restriction to stay in cinemachine polygon collider
+        // Clamp takes value, min, and max value
+        float clampedX = Mathf.Clamp(transform.position.x, -screenBounds.x + playerHalfWidth, screenBounds.x - playerHalfWidth);
+        Vector2 pos = transform.position;   // get player's current position
+        pos.x = clampedX;                   // reassign x value to clamped position
+        transform.position = pos;           // reassign clamped value back to the player
     }
 
     private bool IsGrounded() 

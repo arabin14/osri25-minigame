@@ -1,5 +1,8 @@
 using UnityEngine;
 
+// currently not in use
+// using cinemachine instead
+
 public class CameraController : MonoBehaviour
 {
     // MOVES TO CENTER OF SECTION
