@@ -11,9 +11,16 @@ public class SecurityGuard : MonoBehaviour
     private bool isGrounded;
     private bool shouldJump;
 
+    // for respawn mechanic
+    public GameObject playerRef;
+    //private GameObject securityGuard;
+    public Transform playerRespawnPoint;
+    public Transform securityRespawnPoint;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        //securityGuard = GetComponent<GameObject>();
     }
 
     void Update() 
@@ -51,44 +58,22 @@ public class SecurityGuard : MonoBehaviour
         }
     }
 
+    // when player wins, stop security from moving past exit door
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "ExitDoor")
         {
             rb.constraints = RigidbodyConstraints2D.FreezePosition;
-
-            //float direction = Mathf.Sign(player.position.x - transform.position.x);
-            //rb.linearVelocity = new Vector2((direction * -1) * 1f, rb.linearVelocity.y);
         }
     }
 
-    /*private void Awake() 
+    // respawn player and security guy to original positions to restart run
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        rb = GetComponent<Rigidbody2D>();
-    }
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    private void Start()
-    {
-        player = GameObject.Find("Player").transform;
-    }
-
-    // Update is called once per frame
-    private void Update()
-    {
-        // if player is found
-        if (player) 
+        if (other.gameObject.CompareTag("Player"))
         {
-            Vector3 direction = (player.position - transform.position).normalized;
-            moveDirection = direction;
+            playerRef.transform.position = playerRespawnPoint.position;
+            transform.position = securityRespawnPoint.position;
         }
     }
-
-    private void FixedUpdate() 
-    {
-        if (player)
-        {
-            rb.linearVelocity = new Vector2(moveDirection.x, moveDirection.y) * chaseSpeed;
-        }
-    }*/
 }
