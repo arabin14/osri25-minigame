@@ -7,4 +7,9 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadSceneAsync("SelectArtwork");
     }
+
+    public void StartRun()
+    {
+        SceneManager.LoadSceneAsync("GalleryRun");
+    }
 }
