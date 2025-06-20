@@ -12,4 +12,9 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadSceneAsync("GalleryRun");
     }
+
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
 }

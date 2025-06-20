@@ -7,7 +7,7 @@ public class ExitDoor : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
-            SceneManager.LoadScene("WinCondition");
+            SceneManager.LoadScene("Win");
         }
     }
 }
