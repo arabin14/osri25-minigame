@@ -1,0 +1,1117 @@
+fileFormatVersion: 2
+guid: f3c348edceacb47b29fdf4db35d2b430
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6651598066161264827
+    second: self-portrait-sheet_0
+  - first:
+      213: -6039647619889291706
+    second: self-portrait-sheet_1
+  - first:
+      213: 5372167089294165291
+    second: self-portrait-sheet_2
+  - first:
+      213: 7851968364105157731
+    second: self-portrait-sheet_3
+  - first:
+      213: -843245028054695056
+    second: self-portrait-sheet_4
+  - first:
+      213: 6026518555300223800
+    second: self-portrait-sheet_5
+  - first:
+      213: 3954266358244131256
+    second: self-portrait-sheet_6
+  - first:
+      213: -5847796000189831230
+    second: self-portrait-sheet_7
+  - first:
+      213: 7749974208494241931
+    second: self-portrait-sheet_8
+  - first:
+      213: -6979262719502882942
+    second: self-portrait-sheet_9
+  - first:
+      213: 3114668569410248584
+    second: self-portrait-sheet_10
+  - first:
+      213: -6896903216613102530
+    second: self-portrait-sheet_11
+  - first:
+      213: 8838515006205221938
+    second: self-portrait-sheet_12
+  - first:
+      213: 7625366763715625178
+    second: self-portrait-sheet_13
+  - first:
+      213: -5503786568761409218
+    second: self-portrait-sheet_14
+  - first:
+      213: 2283577249606228303
+    second: self-portrait-sheet_15
+  - first:
+      213: -3847333946749528410
+    second: self-portrait-sheet_16
+  - first:
+      213: -6457770990776466102
+    second: self-portrait-sheet_17
+  - first:
+      213: 1585911704629294862
+    second: self-portrait-sheet_18
+  - first:
+      213: 8684051948387620450
+    second: self-portrait-sheet_19
+  - first:
+      213: -5135102048845943755
+    second: self-portrait-sheet_20
+  - first:
+      213: -8379698903259188152
+    second: self-portrait-sheet_21
+  - first:
+      213: 4566378386949672787
+    second: self-portrait-sheet_22
+  - first:
+      213: -988443137127178601
+    second: self-portrait-sheet_23
+  - first:
+      213: 4755320144396025807
+    second: self-portrait-sheet_24
+  - first:
+      213: 9005425379289427596
+    second: self-portrait-sheet_25
+  - first:
+      213: 4255078113884984815
+    second: self-portrait-sheet_26
+  - first:
+      213: -1412672654348164781
+    second: self-portrait-sheet_27
+  - first:
+      213: 7757273031070486166
+    second: self-portrait-sheet_28
+  - first:
+      213: -1146282142199040935
+    second: self-portrait-sheet_29
+  - first:
+      213: 8238408325854220389
+    second: self-portrait-sheet_30
+  - first:
+      213: 5011530526020127344
+    second: self-portrait-sheet_31
+  - first:
+      213: 808116690581448129
+    second: self-portrait-sheet_32
+  - first:
+      213: -2219142038803696616
+    second: self-portrait-sheet_33
+  - first:
+      213: 5003004314375153882
+    second: self-portrait-sheet_34
+  - first:
+      213: -3505851423590397063
+    second: self-portrait-sheet_35
+  - first:
+      213: 1208114932484162941
+    second: self-portrait-sheet_36
+  - first:
+      213: 6582860321787518180
+    second: self-portrait-sheet_37
+  - first:
+      213: -8006389393276734410
+    second: self-portrait-sheet_38
+  - first:
+      213: -8370809566491916677
+    second: self-portrait-sheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: self-portrait-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 194
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a73213393f4c50800000000000000
+      internalID: 6651598066161264827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 196
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e17f73d7cde2ca0800000000000000
+      internalID: -6039647619889291706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 196
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b254c673185cd8a40800000000000000
+      internalID: 5372167089294165291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 194
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cc71a20abc7fc60800000000000000
+      internalID: 7851968364105157731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 194
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0738f2c5d113c44f0800000000000000
+      internalID: -843245028054695056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 194
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b58f832be72a350800000000000000
+      internalID: 6026518555300223800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 194
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b14b6e5d4060e630800000000000000
+      internalID: 3954266358244131256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 216
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c72cb1558478dea0800000000000000
+      internalID: -5847796000189831230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 216
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b880db34b707d8b60800000000000000
+      internalID: 7749974208494241931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 213
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28767e9c88da42f90800000000000000
+      internalID: -6979262719502882942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 216
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f95c8cf86893b20800000000000000
+      internalID: 3114668569410248584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 216
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ce68bd0174940a0800000000000000
+      internalID: -6896903216613102530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 216
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c52d6d196b8aa70800000000000000
+      internalID: 8838515006205221938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 130
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad00751bbaeb2d960800000000000000
+      internalID: 7625366763715625178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 130
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e310969a64f9e93b0800000000000000
+      internalID: -5503786568761409218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 130
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4951fbd865e0bf10800000000000000
+      internalID: 2283577249606228303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 130
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a651b3d8268b9ac0800000000000000
+      internalID: -3847333946749528410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 130
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4542f5af736166a0800000000000000
+      internalID: -6457770990776466102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 130
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e073097fa4a420610800000000000000
+      internalID: 1585911704629294862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 130
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266deaaac33f38870800000000000000
+      internalID: 8684051948387620450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 130
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c282db4e37cb8b0800000000000000
+      internalID: -5135102048845943755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 130
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844718abe3455bb80800000000000000
+      internalID: -8379698903259188152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f082003f80f5f30800000000000000
+      internalID: 4566378386949672787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 66
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e9cda24385842f0800000000000000
+      internalID: -988443137127178601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcffbfff97a4ef140800000000000000
+      internalID: 4755320144396025807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 66
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e65df6ba2b9fc70800000000000000
+      internalID: 9005425379289427596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 68
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe557ad00031d0b30800000000000000
+      internalID: 4255078113884984815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 89
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3516bad94bd256ce0800000000000000
+      internalID: -1412672654348164781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 89
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e8ca2d8be57ab60800000000000000
+      internalID: 7757273031070486166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 89
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9543ad507769710f0800000000000000
+      internalID: -1146282142199040935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 87
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560592139b4b45270800000000000000
+      internalID: 8238408325854220389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 89
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ac47016788c8540800000000000000
+      internalID: 5011530526020127344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 89
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5eb2739d1073b00800000000000000
+      internalID: 808116690581448129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81438feb2160431e0800000000000000
+      internalID: -2219142038803696616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8e318baed3e6540800000000000000
+      internalID: 5003004314375153882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bc89d74b6b85fc0800000000000000
+      internalID: -3505851423590397063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d754096512614c010800000000000000
+      internalID: 1208114932484162941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 25
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec982ec5940b5b50800000000000000
+      internalID: 6582860321787518180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 25
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634f848344793e090800000000000000
+      internalID: -8006389393276734410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: self-portrait-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 25
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76cecabc09e4db80800000000000000
+      internalID: -8370809566491916677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
