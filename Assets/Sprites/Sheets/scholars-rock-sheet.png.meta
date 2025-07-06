@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 27a029deb2fae4b568648d275e3d1d36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2629382854306685784
+    second: scholars-rock-sheet_0
+  - first:
+      213: -1677561245089765565
+    second: scholars-rock-sheet_1
+  - first:
+      213: -3349008026693936095
+    second: scholars-rock-sheet_2
+  - first:
+      213: 8915919762529955784
+    second: scholars-rock-sheet_3
+  - first:
+      213: 4243998774359414911
+    second: scholars-rock-sheet_4
+  - first:
+      213: -6831437929193484292
+    second: scholars-rock-sheet_5
+  - first:
+      213: 2722564456949053532
+    second: scholars-rock-sheet_6
+  - first:
+      213: -5507469076616524060
+    second: scholars-rock-sheet_7
+  - first:
+      213: 973831914054458254
+    second: scholars-rock-sheet_8
+  - first:
+      213: 2407109179202466859
+    second: scholars-rock-sheet_9
+  - first:
+      213: 8856953010898238959
+    second: scholars-rock-sheet_10
+  - first:
+      213: 6097635563981780640
+    second: scholars-rock-sheet_11
+  - first:
+      213: 2594067536470346186
+    second: scholars-rock-sheet_12
+  - first:
+      213: -4114988652912100967
+    second: scholars-rock-sheet_13
+  - first:
+      213: 8395175449233360997
+    second: scholars-rock-sheet_14
+  - first:
+      213: 2823390073808153458
+    second: scholars-rock-sheet_15
+  - first:
+      213: 3446780736195557553
+    second: scholars-rock-sheet_16
+  - first:
+      213: -3236553344273386603
+    second: scholars-rock-sheet_17
+  - first:
+      213: 7976022577578895660
+    second: scholars-rock-sheet_18
+  - first:
+      213: -8802433155095793621
+    second: scholars-rock-sheet_19
+  - first:
+      213: 4674604881298341788
+    second: scholars-rock-sheet_20
+  - first:
+      213: 2909675145359243520
+    second: scholars-rock-sheet_21
+  - first:
+      213: 739621832266170221
+    second: scholars-rock-sheet_22
+  - first:
+      213: -7197095415224095263
+    second: scholars-rock-sheet_23
+  - first:
+      213: 2808388372515689241
+    second: scholars-rock-sheet_24
+  - first:
+      213: 4844877933848431204
+    second: scholars-rock-sheet_25
+  - first:
+      213: -285703024464447975
+    second: scholars-rock-sheet_26
+  - first:
+      213: 7666418115068973676
+    second: scholars-rock-sheet_27
+  - first:
+      213: 8224329633679330713
+    second: scholars-rock-sheet_28
+  - first:
+      213: 1134036293291967220
+    second: scholars-rock-sheet_29
+  - first:
+      213: -497632565039988099
+    second: scholars-rock-sheet_30
+  - first:
+      213: 951230526442954177
+    second: scholars-rock-sheet_31
+  - first:
+      213: 3025618546567185067
+    second: scholars-rock-sheet_32
+  - first:
+      213: 8448481379956401738
+    second: scholars-rock-sheet_33
+  - first:
+      213: -3476344902158459193
+    second: scholars-rock-sheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scholars-rock-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 245
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac1c8e993e828bd0800000000000000
+      internalID: -2629382854306685784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 245
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34766798fea18b8e0800000000000000
+      internalID: -1677561245089765565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 245
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cd9fa81fee581d0800000000000000
+      internalID: -3349008026693936095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 245
+        width: 28
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfab7319c5bbbb70800000000000000
+      internalID: 8915919762529955784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 245
+        width: 28
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78d2ec4666b5ea30800000000000000
+      internalID: 4243998774359414911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 244
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffca4dd56bd131a0800000000000000
+      internalID: -6831437929193484292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 244
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c587d86e2fd78c520800000000000000
+      internalID: 2722564456949053532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 275
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eec2dcfd0a8193b0800000000000000
+      internalID: -5507469076616524060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 275
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b972c57feb38d00800000000000000
+      internalID: 973831914054458254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 272
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24f1f98b05c76120800000000000000
+      internalID: 2407109179202466859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 275
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed7ae656d73aea70800000000000000
+      internalID: 8856953010898238959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 275
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a63ce02d372f9450800000000000000
+      internalID: 6097635563981780640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 275
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac900b23eaafff320800000000000000
+      internalID: 2594067536470346186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 165
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99939605f9f94e6c0800000000000000
+      internalID: -4114988652912100967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 165
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56882ae6797a18470800000000000000
+      internalID: 8395175449233360997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 165
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27be2bb2052be2720800000000000000
+      internalID: 2823390073808153458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 165
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8789751dc65df20800000000000000
+      internalID: 3446780736195557553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 165
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5937bf1a1e37513d0800000000000000
+      internalID: -3236553344273386603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 165
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29e519864680be60800000000000000
+      internalID: 7976022577578895660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 165
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20f467cea977d580800000000000000
+      internalID: -8802433155095793621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 165
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f38175f588fd040800000000000000
+      internalID: 4674604881298341788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 85
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009bbeae02e316820800000000000000
+      internalID: 2909675145359243520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 112
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f3954432aa34a00800000000000000
+      internalID: 739621832266170221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 112
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eda9f80ad7ce1c90800000000000000
+      internalID: -7197095415224095263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 112
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9139227685669f620800000000000000
+      internalID: 2808388372515689241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 110
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a0a23cfc67c3340800000000000000
+      internalID: 4844877933848431204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 114
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916ba8bec9af80cf0800000000000000
+      internalID: -285703024464447975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 114
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c625e4048a6946a60800000000000000
+      internalID: 7666418115068973676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 6
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dcc2b3a30b22270800000000000000
+      internalID: 8224329633679330713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 6
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f281181008ecbf00800000000000000
+      internalID: 1134036293291967220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 6
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72002491dd0819f0800000000000000
+      internalID: -497632565039988099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 5
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdd32cbf13733d00800000000000000
+      internalID: 951230526442954177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 34
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba288f5a9082df920800000000000000
+      internalID: 3025618546567185067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 34
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46adc79d090f3570800000000000000
+      internalID: 8448481379956401738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scholars-rock-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 34
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceda1edaba81cfc0800000000000000
+      internalID: -3476344902158459193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

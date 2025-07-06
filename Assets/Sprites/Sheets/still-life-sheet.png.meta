@@ -1,226 +1,253 @@
 fileFormatVersion: 2
-guid: f3c348edceacb47b29fdf4db35d2b430
+guid: 14947f6f7869449af943b8a1182d8ac5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6651598066161264827
-    second: self-portrait-sheet_0
+      213: -4330915439684707416
+    second: still-life-sheet_0
   - first:
-      213: -6039647619889291706
-    second: self-portrait-sheet_1
+      213: 6088347809968460779
+    second: still-life-sheet_1
   - first:
-      213: 5372167089294165291
-    second: self-portrait-sheet_2
+      213: -382283150150926723
+    second: still-life-sheet_2
   - first:
-      213: 7851968364105157731
-    second: self-portrait-sheet_3
+      213: -4048105602981108090
+    second: still-life-sheet_3
   - first:
-      213: -843245028054695056
-    second: self-portrait-sheet_4
+      213: -345336518587061191
+    second: still-life-sheet_4
   - first:
-      213: 6026518555300223800
-    second: self-portrait-sheet_5
+      213: -1440108918149914956
+    second: still-life-sheet_5
   - first:
-      213: 3954266358244131256
-    second: self-portrait-sheet_6
+      213: 9142461420511643383
+    second: still-life-sheet_6
   - first:
-      213: -5847796000189831230
-    second: self-portrait-sheet_7
+      213: -1578521755163471601
+    second: still-life-sheet_7
   - first:
-      213: 7749974208494241931
-    second: self-portrait-sheet_8
+      213: -3270656545557378299
+    second: still-life-sheet_8
   - first:
-      213: -6979262719502882942
-    second: self-portrait-sheet_9
+      213: 2261899143018842817
+    second: still-life-sheet_9
   - first:
-      213: 3114668569410248584
-    second: self-portrait-sheet_10
+      213: -1283057979001651564
+    second: still-life-sheet_10
   - first:
-      213: -6896903216613102530
-    second: self-portrait-sheet_11
+      213: -1876693943560767758
+    second: still-life-sheet_11
   - first:
-      213: 8838515006205221938
-    second: self-portrait-sheet_12
+      213: -6900703728928351146
+    second: still-life-sheet_12
   - first:
-      213: 7625366763715625178
-    second: self-portrait-sheet_13
+      213: -9153058501437591959
+    second: still-life-sheet_13
   - first:
-      213: -5503786568761409218
-    second: self-portrait-sheet_14
+      213: -2325060040721501444
+    second: still-life-sheet_14
   - first:
-      213: 2283577249606228303
-    second: self-portrait-sheet_15
+      213: -2615180272092253716
+    second: still-life-sheet_15
   - first:
-      213: -3847333946749528410
-    second: self-portrait-sheet_16
+      213: -8448647692819890520
+    second: still-life-sheet_16
   - first:
-      213: -6457770990776466102
-    second: self-portrait-sheet_17
+      213: 839533948538645859
+    second: still-life-sheet_17
   - first:
-      213: 1585911704629294862
-    second: self-portrait-sheet_18
+      213: 1272851180419235895
+    second: still-life-sheet_18
   - first:
-      213: 8684051948387620450
-    second: self-portrait-sheet_19
+      213: -7591538167001063888
+    second: still-life-sheet_19
   - first:
-      213: -5135102048845943755
-    second: self-portrait-sheet_20
+      213: 3933831046368104275
+    second: still-life-sheet_20
   - first:
-      213: -8379698903259188152
-    second: self-portrait-sheet_21
+      213: 2197123409303625671
+    second: still-life-sheet_21
   - first:
-      213: 4566378386949672787
-    second: self-portrait-sheet_22
+      213: 2759341990868943441
+    second: still-life-sheet_22
   - first:
-      213: -988443137127178601
-    second: self-portrait-sheet_23
+      213: -5517797793737881995
+    second: still-life-sheet_23
   - first:
-      213: 4755320144396025807
-    second: self-portrait-sheet_24
+      213: 1828134545511340640
+    second: still-life-sheet_24
   - first:
-      213: 9005425379289427596
-    second: self-portrait-sheet_25
+      213: 5373036413982780156
+    second: still-life-sheet_25
   - first:
-      213: 4255078113884984815
-    second: self-portrait-sheet_26
+      213: 923529341008766314
+    second: still-life-sheet_26
   - first:
-      213: -1412672654348164781
-    second: self-portrait-sheet_27
+      213: 5544833881698937534
+    second: still-life-sheet_27
   - first:
-      213: 7757273031070486166
-    second: self-portrait-sheet_28
+      213: 8971446173464511590
+    second: still-life-sheet_28
   - first:
-      213: -1146282142199040935
-    second: self-portrait-sheet_29
+      213: 7867554752523821543
+    second: still-life-sheet_29
   - first:
-      213: 8238408325854220389
-    second: self-portrait-sheet_30
+      213: -1141928861366642787
+    second: still-life-sheet_30
   - first:
-      213: 5011530526020127344
-    second: self-portrait-sheet_31
+      213: 8704182611951433716
+    second: still-life-sheet_31
   - first:
-      213: 808116690581448129
-    second: self-portrait-sheet_32
+      213: 5178514379823793014
+    second: still-life-sheet_32
   - first:
-      213: -2219142038803696616
-    second: self-portrait-sheet_33
+      213: 4397442336706739241
+    second: still-life-sheet_33
   - first:
-      213: 5003004314375153882
-    second: self-portrait-sheet_34
+      213: -8510372023599751517
+    second: still-life-sheet_34
   - first:
-      213: -3505851423590397063
-    second: self-portrait-sheet_35
+      213: 7739492598247558971
+    second: still-life-sheet_35
   - first:
-      213: 1208114932484162941
-    second: self-portrait-sheet_36
+      213: -826844751654646816
+    second: still-life-sheet_36
   - first:
-      213: 6582860321787518180
-    second: self-portrait-sheet_37
+      213: -5796471410798344349
+    second: still-life-sheet_37
   - first:
-      213: -8006389393276734410
-    second: self-portrait-sheet_38
+      213: -1244699594801247402
+    second: still-life-sheet_38
   - first:
-      213: -8370809566491916677
-    second: self-portrait-sheet_39
+      213: -7814278537487686952
+    second: still-life-sheet_39
   - first:
-      213: 2536779336628235975
-    second: self-portrait-sheet_40
+      213: -6257162313897488003
+    second: still-life-sheet_40
   - first:
-      213: 327938377772394308
-    second: self-portrait-sheet_41
+      213: 7532138564774992759
+    second: still-life-sheet_41
   - first:
-      213: 5357768370694118341
-    second: self-portrait-sheet_42
+      213: -3782822446892736286
+    second: still-life-sheet_42
   - first:
-      213: -5410332077555933450
-    second: self-portrait-sheet_43
+      213: 8489805594688056261
+    second: still-life-sheet_43
   - first:
-      213: -3173470035631803151
-    second: self-portrait-sheet_44
+      213: -2284650665123694173
+    second: still-life-sheet_44
   - first:
-      213: -2540109811443586358
-    second: self-portrait-sheet_45
+      213: 4401477295876534473
+    second: still-life-sheet_45
   - first:
-      213: 2488881623446781838
-    second: self-portrait-sheet_46
+      213: 2196163878696766297
+    second: still-life-sheet_46
   - first:
-      213: -7155544963982233598
-    second: self-portrait-sheet_47
+      213: 3693724238718146139
+    second: still-life-sheet_47
   - first:
-      213: 9168152196020582392
-    second: self-portrait-sheet_48
+      213: 6289442513723187914
+    second: still-life-sheet_48
   - first:
-      213: 1631522179785674790
-    second: self-portrait-sheet_49
+      213: -4817465999966893544
+    second: still-life-sheet_49
   - first:
-      213: -1221073950349239796
-    second: self-portrait-sheet_50
+      213: 5425110526413564368
+    second: still-life-sheet_50
   - first:
-      213: 3942908183122774560
-    second: self-portrait-sheet_51
+      213: -2460969547427514647
+    second: still-life-sheet_51
   - first:
-      213: -8883733081071440536
-    second: self-portrait-sheet_52
+      213: -2061428594689190559
+    second: still-life-sheet_52
   - first:
-      213: -718886222794253065
-    second: self-portrait-sheet_53
+      213: 1538546956753670608
+    second: still-life-sheet_53
   - first:
-      213: 7038770945850526270
-    second: self-portrait-sheet_54
+      213: -5069888796670114161
+    second: still-life-sheet_54
   - first:
-      213: 24917596788297270
-    second: self-portrait-sheet_55
+      213: 3644337816329762542
+    second: still-life-sheet_55
   - first:
-      213: -2288054900398780876
-    second: self-portrait-sheet_56
+      213: -3789723724840739920
+    second: still-life-sheet_56
   - first:
-      213: -9044074782640286538
-    second: self-portrait-sheet_57
+      213: 6421851204217854141
+    second: still-life-sheet_57
   - first:
-      213: 7605972424791873031
-    second: self-portrait-sheet_58
+      213: 4659454089133695129
+    second: still-life-sheet_58
   - first:
-      213: -1772622091252723406
-    second: self-portrait-sheet_59
+      213: -5241902055612975792
+    second: still-life-sheet_59
   - first:
-      213: -6078463806113649556
-    second: self-portrait-sheet_60
+      213: 3556996479860124835
+    second: still-life-sheet_60
   - first:
-      213: 2519867360127098671
-    second: self-portrait-sheet_61
+      213: 7914256033103157233
+    second: still-life-sheet_61
   - first:
-      213: 8827962194627837029
-    second: self-portrait-sheet_62
+      213: 6109970052507258403
+    second: still-life-sheet_62
   - first:
-      213: -7747240199392365715
-    second: self-portrait-sheet_63
+      213: 8388057974955620048
+    second: still-life-sheet_63
   - first:
-      213: -5909307162958216467
-    second: self-portrait-sheet_64
+      213: 1418349606826847245
+    second: still-life-sheet_64
   - first:
-      213: 7333067280494037470
-    second: self-portrait-sheet_65
+      213: 1666365853282831479
+    second: still-life-sheet_65
   - first:
-      213: -8887608822981117433
-    second: self-portrait-sheet_66
+      213: -615231058299480734
+    second: still-life-sheet_66
   - first:
-      213: 8103670257654107476
-    second: self-portrait-sheet_67
+      213: 8669879547685692311
+    second: still-life-sheet_67
   - first:
-      213: 3785417810286224091
-    second: self-portrait-sheet_68
+      213: 469511578208124281
+    second: still-life-sheet_68
   - first:
-      213: -9130107784404395854
-    second: self-portrait-sheet_69
+      213: 5231805729575517044
+    second: still-life-sheet_69
   - first:
-      213: 8062328712528918299
-    second: self-portrait-sheet_70
+      213: -5580271002634922936
+    second: still-life-sheet_70
   - first:
-      213: -968799978433684645
-    second: self-portrait-sheet_71
+      213: -3564283388581650789
+    second: still-life-sheet_71
   - first:
-      213: -5799079179225273194
-    second: self-portrait-sheet_72
+      213: -7945562044568384181
+    second: still-life-sheet_72
+  - first:
+      213: -5879633030162859911
+    second: still-life-sheet_73
+  - first:
+      213: 7554294299386492279
+    second: still-life-sheet_74
+  - first:
+      213: -3638918096987650905
+    second: still-life-sheet_75
+  - first:
+      213: 2235143092791394862
+    second: still-life-sheet_76
+  - first:
+      213: 1308494715765774660
+    second: still-life-sheet_77
+  - first:
+      213: -1036785717278347781
+    second: still-life-sheet_78
+  - first:
+      213: 4503860613963670634
+    second: still-life-sheet_79
+  - first:
+      213: -4970499637666546583
+    second: still-life-sheet_80
+  - first:
+      213: -2784201851711113487
+    second: still-life-sheet_81
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -316,12 +343,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: self-portrait-sheet_0
+      name: still-life-sheet_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 386
-        width: 34
+        x: 7
+        y: 387
+        width: 46
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -331,20 +358,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bb8a73213393f4c50800000000000000
-      internalID: 6651598066161264827
+      spriteID: 8ab96519a5f75e3c0800000000000000
+      internalID: -4330915439684707416
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_1
+      name: still-life-sheet_1
       rect:
         serializedVersion: 2
-        x: 78
-        y: 388
-        width: 36
-        height: 49
+        x: 71
+        y: 387
+        width: 48
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,20 +380,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 64e17f73d7cde2ca0800000000000000
-      internalID: -6039647619889291706
+      spriteID: be3923263182e7450800000000000000
+      internalID: 6088347809968460779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_2
+      name: still-life-sheet_2
       rect:
         serializedVersion: 2
-        x: 142
-        y: 388
-        width: 36
-        height: 49
+        x: 135
+        y: 387
+        width: 48
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -375,19 +402,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b254c673185cd8a40800000000000000
-      internalID: 5372167089294165291
+      spriteID: d7ef2a7108bd1baf0800000000000000
+      internalID: -382283150150926723
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_3
+      name: still-life-sheet_3
       rect:
         serializedVersion: 2
-        x: 208
-        y: 386
-        width: 34
+        x: 199
+        y: 387
+        width: 48
         height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -397,19 +424,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 36cc71a20abc7fc60800000000000000
-      internalID: 7851968364105157731
+      spriteID: 686ea01e66d32d7c0800000000000000
+      internalID: -4048105602981108090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_4
+      name: still-life-sheet_4
       rect:
         serializedVersion: 2
-        x: 272
-        y: 386
-        width: 34
+        x: 213
+        y: 428
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ce5a9144e153bf0800000000000000
+      internalID: -345336518587061191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 387
+        width: 46
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -419,19 +468,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0738f2c5d113c44f0800000000000000
-      internalID: -843245028054695056
+      spriteID: 4be5dc7a194b30ce0800000000000000
+      internalID: -1440108918149914956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_5
+      name: still-life-sheet_6
       rect:
         serializedVersion: 2
-        x: 337
-        y: 386
-        width: 39
+        x: 327
+        y: 387
+        width: 47
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -441,19 +490,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 83b58f832be72a350800000000000000
-      internalID: 6026518555300223800
+      spriteID: 7f64f4e193c80ee70800000000000000
+      internalID: 9142461420511643383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_6
+      name: still-life-sheet_7
       rect:
         serializedVersion: 2
-        x: 401
-        y: 386
-        width: 39
+        x: 391
+        y: 387
+        width: 47
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -463,18 +512,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8b14b6e5d4060e630800000000000000
-      internalID: 3954266358244131256
+      spriteID: f015149b3d6f71ae0800000000000000
+      internalID: -1578521755163471601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_7
+      name: still-life-sheet_8
       rect:
         serializedVersion: 2
-        x: 472
-        y: 411
+        x: 478
+        y: 409
         width: 8
         height: 11
       alignment: 0
@@ -485,18 +534,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2c72cb1558478dea0800000000000000
-      internalID: -5847796000189831230
+      spriteID: 50b0fb3533b4c92d0800000000000000
+      internalID: -3270656545557378299
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_8
+      name: still-life-sheet_9
       rect:
         serializedVersion: 2
-        x: 480
-        y: 411
+        x: 486
+        y: 409
         width: 8
         height: 9
       alignment: 0
@@ -507,18 +556,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b880db34b707d8b60800000000000000
-      internalID: 7749974208494241931
+      spriteID: 1ca06695941e36f10800000000000000
+      internalID: 2261899143018842817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_9
+      name: still-life-sheet_10
       rect:
         serializedVersion: 2
-        x: 488
-        y: 408
+        x: 494
+        y: 406
         width: 12
         height: 14
       alignment: 0
@@ -529,18 +578,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 28767e9c88da42f90800000000000000
-      internalID: -6979262719502882942
+      spriteID: 49e3067e099a13ee0800000000000000
+      internalID: -1283057979001651564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_10
+      name: still-life-sheet_11
       rect:
         serializedVersion: 2
-        x: 500
-        y: 411
+        x: 506
+        y: 409
         width: 8
         height: 9
       alignment: 0
@@ -551,18 +600,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88f95c8cf86893b20800000000000000
-      internalID: 3114668569410248584
+      spriteID: 2f6feed2dc4a4f5e0800000000000000
+      internalID: -1876693943560767758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_11
+      name: still-life-sheet_12
       rect:
         serializedVersion: 2
-        x: 511
-        y: 411
+        x: 517
+        y: 409
         width: 7
         height: 11
       alignment: 0
@@ -573,18 +622,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e3ce68bd0174940a0800000000000000
-      internalID: -6896903216613102530
+      spriteID: 65c13012586cb30a0800000000000000
+      internalID: -6900703728928351146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_12
+      name: still-life-sheet_13
       rect:
         serializedVersion: 2
-        x: 518
-        y: 411
+        x: 524
+        y: 409
         width: 16
         height: 11
       alignment: 0
@@ -595,19 +644,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 23c52d6d196b8aa70800000000000000
-      internalID: 8838515006205221938
+      spriteID: 96e6175b9cdc9f080800000000000000
+      internalID: -9153058501437591959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_13
+      name: still-life-sheet_14
       rect:
         serializedVersion: 2
-        x: 17
-        y: 322
-        width: 39
+        x: 7
+        y: 323
+        width: 47
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -617,19 +666,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad00751bbaeb2d960800000000000000
-      internalID: 7625366763715625178
+      spriteID: cf2f65f263abbbfd0800000000000000
+      internalID: -2325060040721501444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_14
+      name: still-life-sheet_15
       rect:
         serializedVersion: 2
-        x: 81
-        y: 322
-        width: 39
+        x: 71
+        y: 323
+        width: 47
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -639,19 +688,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e310969a64f9e93b0800000000000000
-      internalID: -5503786568761409218
+      spriteID: ce1f45af56305bbd0800000000000000
+      internalID: -2615180272092253716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_15
+      name: still-life-sheet_16
       rect:
         serializedVersion: 2
-        x: 145
-        y: 322
-        width: 39
+        x: 135
+        y: 323
+        width: 47
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -661,63 +710,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4951fbd865e0bf10800000000000000
-      internalID: 2283577249606228303
+      spriteID: 8aefb0dafaf50ca80800000000000000
+      internalID: -8448647692819890520
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_16
+      name: still-life-sheet_17
       rect:
         serializedVersion: 2
-        x: 209
-        y: 322
-        width: 39
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a651b3d8268b9ac0800000000000000
-      internalID: -3847333946749528410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_17
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 322
-        width: 39
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4542f5af736166a0800000000000000
-      internalID: -6457770990776466102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_18
-      rect:
-        serializedVersion: 2
-        x: 337
-        y: 322
-        width: 39
+        x: 200
+        y: 323
+        width: 46
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -727,19 +732,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e073097fa4a420610800000000000000
-      internalID: 1585911704629294862
+      spriteID: 36de68b9daf96ab00800000000000000
+      internalID: 839533948538645859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_19
+      name: still-life-sheet_18
       rect:
         serializedVersion: 2
-        x: 401
-        y: 322
-        width: 39
+        x: 264
+        y: 323
+        width: 46
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -749,171 +754,303 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 266deaaac33f38870800000000000000
-      internalID: 8684051948387620450
+      spriteID: 73043dc97631aa110800000000000000
+      internalID: 1272851180419235895
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_20
-      rect:
-        serializedVersion: 2
-        x: 465
-        y: 322
-        width: 39
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 53c282db4e37cb8b0800000000000000
-      internalID: -5135102048845943755
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_21
-      rect:
-        serializedVersion: 2
-        x: 529
-        y: 322
-        width: 39
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 844718abe3455bb80800000000000000
-      internalID: -8379698903259188152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_22
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 258
-        width: 38
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 35f082003f80f5f30800000000000000
-      internalID: 4566378386949672787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_23
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 258
-        width: 38
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79e9cda24385842f0800000000000000
-      internalID: -988443137127178601
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_24
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 258
-        width: 39
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fcffbfff97a4ef140800000000000000
-      internalID: 4755320144396025807
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_25
-      rect:
-        serializedVersion: 2
-        x: 209
-        y: 258
-        width: 39
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8e65df6ba2b9fc70800000000000000
-      internalID: 9005425379289427596
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_26
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 260
-        width: 41
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fe557ad00031d0b30800000000000000
-      internalID: 4255078113884984815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_27
+      name: still-life-sheet_19
       rect:
         serializedVersion: 2
         x: 328
+        y: 323
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ed411424075a690800000000000000
+      internalID: -7591538167001063888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 323
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f8c2d8e76c79630800000000000000
+      internalID: 3933831046368104275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 323
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfdc339910cd7e10800000000000000
+      internalID: 2197123409303625671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 323
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152009bcbe62b4620800000000000000
+      internalID: 2759341990868943441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 323
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576c1d12428dc63b0800000000000000
+      internalID: -5517797793737881995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 323
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ad2daeea6de5910800000000000000
+      internalID: 1828134545511340640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 323
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaaea4a62cd09a40800000000000000
+      internalID: 5373036413982780156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 259
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a656a76ea0901dc00800000000000000
+      internalID: 923529341008766314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 259
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba2731a90533fc40800000000000000
+      internalID: 5544833881698937534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 259
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664c3e213caf08c70800000000000000
+      internalID: 8971446173464511590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 259
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e16e130d5b2f2d60800000000000000
+      internalID: 7867554752523821543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 259
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97997330cd0720f0800000000000000
+      internalID: -1141928861366642787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 259
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f73f7508f77bc870800000000000000
+      internalID: 8704182611951433716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 417
         y: 282
         width: 8
         height: 11
@@ -925,17 +1062,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3516bad94bd256ce0800000000000000
-      internalID: -1412672654348164781
+      spriteID: 67346a93467cdd740800000000000000
+      internalID: 5178514379823793014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_28
+      name: still-life-sheet_33
       rect:
         serializedVersion: 2
-        x: 336
+        x: 425
         y: 282
         width: 8
         height: 9
@@ -947,17 +1084,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 69e8ca2d8be57ab60800000000000000
-      internalID: 7757273031070486166
+      spriteID: 92c3bafa18ad60d30800000000000000
+      internalID: 4397442336706739241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_29
+      name: still-life-sheet_34
       rect:
         serializedVersion: 2
-        x: 344
+        x: 433
         y: 282
         width: 12
         height: 9
@@ -969,17 +1106,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9543ad507769710f0800000000000000
-      internalID: -1146282142199040935
+      spriteID: 3ae1ae20cb515e980800000000000000
+      internalID: -8510372023599751517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_30
+      name: still-life-sheet_35
       rect:
         serializedVersion: 2
-        x: 356
+        x: 445
         y: 280
         width: 8
         height: 11
@@ -991,17 +1128,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 560592139b4b45270800000000000000
-      internalID: 8238408325854220389
+      spriteID: b3f8f443383386b60800000000000000
+      internalID: 7739492598247558971
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_31
+      name: still-life-sheet_36
       rect:
         serializedVersion: 2
-        x: 367
+        x: 456
         y: 282
         width: 8
         height: 11
@@ -1013,18 +1150,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 07ac47016788c8540800000000000000
-      internalID: 5011530526020127344
+      spriteID: 0eb8a3544157684f0800000000000000
+      internalID: -826844751654646816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_32
+      name: still-life-sheet_37
       rect:
         serializedVersion: 2
-        x: 494
-        y: 282
+        x: 691
+        y: 283
         width: 17
         height: 11
       alignment: 0
@@ -1035,18 +1172,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c5eb2739d1073b00800000000000000
-      internalID: 808116690581448129
+      spriteID: 36748a086fbce8fa0800000000000000
+      internalID: -5796471410798344349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_33
+      name: still-life-sheet_38
       rect:
         serializedVersion: 2
-        x: 511
-        y: 282
+        x: 708
+        y: 283
         width: 8
         height: 9
       alignment: 0
@@ -1057,18 +1194,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 81438feb2160431e0800000000000000
-      internalID: -2219142038803696616
+      spriteID: 65b8ccf2050f9bee0800000000000000
+      internalID: -1244699594801247402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_34
+      name: still-life-sheet_39
       rect:
         serializedVersion: 2
-        x: 522
-        y: 282
+        x: 719
+        y: 283
         width: 16
         height: 11
       alignment: 0
@@ -1079,19 +1216,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad8e318baed3e6540800000000000000
-      internalID: 5003004314375153882
+      spriteID: 8d2661d621b1e8390800000000000000
+      internalID: -7814278537487686952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_35
+      name: still-life-sheet_40
       rect:
         serializedVersion: 2
-        x: 16
+        x: 8
         y: 195
-        width: 37
+        width: 46
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1101,42 +1238,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 97bc89d74b6b85fc0800000000000000
-      internalID: -3505851423590397063
+      spriteID: d71dd2207081a29a0800000000000000
+      internalID: -6257162313897488003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_36
+      name: still-life-sheet_41
       rect:
         serializedVersion: 2
-        x: 79
-        y: 194
-        width: 32
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d754096512614c010800000000000000
-      internalID: 1208114932484162941
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_37
-      rect:
-        serializedVersion: 2
-        x: 144
+        x: 72
         y: 195
-        width: 37
-        height: 51
+        width: 46
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1145,20 +1260,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ec982ec5940b5b50800000000000000
-      internalID: 6582860321787518180
+      spriteID: 77b1f602e18878860800000000000000
+      internalID: 7532138564774992759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_38
+      name: still-life-sheet_42
       rect:
         serializedVersion: 2
-        x: 207
-        y: 194
-        width: 43
-        height: 50
+        x: 136
+        y: 195
+        width: 46
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1167,18 +1282,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 634f848344793e090800000000000000
-      internalID: -8006389393276734410
+      spriteID: 2e0a59cd607b08bc0800000000000000
+      internalID: -3782822446892736286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_39
+      name: still-life-sheet_43
       rect:
         serializedVersion: 2
-        x: 271
-        y: 218
+        x: 200
+        y: 195
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb618b1539d1d570800000000000000
+      internalID: 8489805594688056261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 219
         width: 8
         height: 11
       alignment: 0
@@ -1189,18 +1326,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b76cecabc09e4db80800000000000000
-      internalID: -8370809566491916677
+      spriteID: 3a9317d135a4b40e0800000000000000
+      internalID: -2284650665123694173
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_40
+      name: still-life-sheet_45
       rect:
         serializedVersion: 2
-        x: 279
-        y: 218
+        x: 294
+        y: 219
         width: 8
         height: 9
       alignment: 0
@@ -1211,18 +1348,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7cee641cd53743320800000000000000
-      internalID: 2536779336628235975
+      spriteID: 9c0faa3d740351d30800000000000000
+      internalID: 4401477295876534473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_41
+      name: still-life-sheet_46
       rect:
         serializedVersion: 2
-        x: 287
-        y: 218
+        x: 302
+        y: 219
         width: 8
         height: 9
       alignment: 0
@@ -1233,18 +1370,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 447675397321d8400800000000000000
-      internalID: 327938377772394308
+      spriteID: 95bc34279675a7e10800000000000000
+      internalID: 2196163878696766297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_42
+      name: still-life-sheet_47
       rect:
         serializedVersion: 2
-        x: 298
-        y: 218
+        x: 313
+        y: 219
         width: 8
         height: 11
       alignment: 0
@@ -1255,19 +1392,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5cbdb0c42fd9a5a40800000000000000
-      internalID: 5357768370694118341
+      spriteID: b569b0bff9eb24330800000000000000
+      internalID: 3693724238718146139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_43
+      name: still-life-sheet_48
       rect:
         serializedVersion: 2
-        x: 16
-        y: 130
-        width: 34
+        x: 7
+        y: 131
+        width: 46
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1277,19 +1414,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6fe906004a3aae4b0800000000000000
-      internalID: -5410332077555933450
+      spriteID: ac2e5b1b4a6984750800000000000000
+      internalID: 6289442513723187914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_44
+      name: still-life-sheet_49
       rect:
         serializedVersion: 2
-        x: 80
-        y: 130
-        width: 34
+        x: 71
+        y: 131
+        width: 46
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1299,19 +1436,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f4f1dcf0d195f3d0800000000000000
-      internalID: -3173470035631803151
+      spriteID: 81a8372723ce42db0800000000000000
+      internalID: -4817465999966893544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_45
+      name: still-life-sheet_50
       rect:
         serializedVersion: 2
-        x: 144
-        y: 130
-        width: 34
+        x: 135
+        y: 131
+        width: 46
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1321,63 +1458,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: acaab66a597bfbcd0800000000000000
-      internalID: -2540109811443586358
+      spriteID: 0d9ec12c74dd94b40800000000000000
+      internalID: 5425110526413564368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_46
+      name: still-life-sheet_51
       rect:
         serializedVersion: 2
-        x: 208
-        y: 130
-        width: 34
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e8ffa8d56a84a8220800000000000000
-      internalID: 2488881623446781838
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_47
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 130
-        width: 34
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 200f08754c562bc90800000000000000
-      internalID: -7155544963982233598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_48
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 130
-        width: 34
+        x: 198
+        y: 131
+        width: 47
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1387,19 +1480,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8f7368ae8d1db3f70800000000000000
-      internalID: 9168152196020582392
+      spriteID: 9e677824c31e8ddd0800000000000000
+      internalID: -2460969547427514647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_49
+      name: still-life-sheet_52
       rect:
         serializedVersion: 2
-        x: 400
-        y: 130
-        width: 34
+        x: 262
+        y: 131
+        width: 47
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1409,19 +1502,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 620db4147c454a610800000000000000
-      internalID: 1631522179785674790
+      spriteID: 165d7b37d955463e0800000000000000
+      internalID: -2061428594689190559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_50
+      name: still-life-sheet_53
       rect:
         serializedVersion: 2
-        x: 464
-        y: 130
-        width: 34
+        x: 326
+        y: 131
+        width: 47
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1431,19 +1524,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0a53f036bfdd0fe0800000000000000
-      internalID: -1221073950349239796
+      spriteID: 0d19f8b3e440a5510800000000000000
+      internalID: 1538546956753670608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_51
+      name: still-life-sheet_54
       rect:
         serializedVersion: 2
-        x: 528
-        y: 130
-        width: 34
+        x: 391
+        y: 131
+        width: 46
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1453,63 +1546,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 02a83052a1608b630800000000000000
-      internalID: 3942908183122774560
+      spriteID: f86ceb7300324a9b0800000000000000
+      internalID: -5069888796670114161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_52
+      name: still-life-sheet_55
       rect:
         serializedVersion: 2
-        x: 16
-        y: 66
-        width: 34
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 86da95fa4d3a6b480800000000000000
-      internalID: -8883733081071440536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_53
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 66
-        width: 34
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7fc1d680ac00606f0800000000000000
-      internalID: -718886222794253065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_54
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 66
-        width: 35
+        x: 455
+        y: 131
+        width: 46
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1519,19 +1568,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e3ac2cad1ecbea160800000000000000
-      internalID: 7038770945850526270
+      spriteID: ee6bbd77fe9439230800000000000000
+      internalID: 3644337816329762542
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_55
+      name: still-life-sheet_56
       rect:
         serializedVersion: 2
-        x: 207
-        y: 66
-        width: 35
+        x: 519
+        y: 131
+        width: 46
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1541,20 +1590,86 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 63e09391c66885000800000000000000
-      internalID: 24917596788297270
+      spriteID: 0bb5fffd952386bc0800000000000000
+      internalID: -3789723724840739920
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_56
+      name: still-life-sheet_57
       rect:
         serializedVersion: 2
-        x: 270
+        x: 584
+        y: 131
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8d1d355affe1950800000000000000
+      internalID: 6421851204217854141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 131
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9902e06aec4b9a040800000000000000
+      internalID: 4659454089133695129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 131
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0557ccb6ad50147b0800000000000000
+      internalID: -5241902055612975792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 7
         y: 67
-        width: 36
-        height: 50
+        width: 47
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1563,17 +1678,127 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 43e8323d0323f30e0800000000000000
-      internalID: -2288054900398780876
+      spriteID: 3aca061e37dfc5130800000000000000
+      internalID: 3556996479860124835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_57
+      name: still-life-sheet_61
       rect:
         serializedVersion: 2
-        x: 328
+        x: 71
+        y: 67
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f71b9a3ee515dd60800000000000000
+      internalID: 7914256033103157233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 67
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e48f70469fac450800000000000000
+      internalID: 6109970052507258403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 67
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6bc90594e586470800000000000000
+      internalID: 8388057974955620048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 67
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0caa32e37dfea310800000000000000
+      internalID: 1418349606826847245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 67
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c83ce2aee102710800000000000000
+      internalID: 1666365853282831479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 418
         y: 90
         width: 8
         height: 11
@@ -1585,17 +1810,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b458aa17edfc7280800000000000000
-      internalID: -9044074782640286538
+      spriteID: 2659543bc924677f0800000000000000
+      internalID: -615231058299480734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_58
+      name: still-life-sheet_67
       rect:
         serializedVersion: 2
-        x: 336
+        x: 426
         y: 90
         width: 8
         height: 9
@@ -1607,17 +1832,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 706d2274f97dd8960800000000000000
-      internalID: 7605972424791873031
+      spriteID: 793ea3d7389915870800000000000000
+      internalID: 8669879547685692311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_59
+      name: still-life-sheet_68
       rect:
         serializedVersion: 2
-        x: 344
+        x: 434
         y: 90
         width: 12
         height: 9
@@ -1629,17 +1854,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2311fd989916667e0800000000000000
-      internalID: -1772622091252723406
+      spriteID: 97d3705fa4a048600800000000000000
+      internalID: 469511578208124281
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_60
+      name: still-life-sheet_69
       rect:
         serializedVersion: 2
-        x: 356
+        x: 446
         y: 88
         width: 8
         height: 11
@@ -1651,17 +1876,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c6ce6889f55f4aba0800000000000000
-      internalID: -6078463806113649556
+      spriteID: 47bb33d779b1b9840800000000000000
+      internalID: 5231805729575517044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_61
+      name: still-life-sheet_70
       rect:
         serializedVersion: 2
-        x: 367
+        x: 457
         y: 90
         width: 7
         height: 11
@@ -1673,18 +1898,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f2f1a71630e58f220800000000000000
-      internalID: 2519867360127098671
+      spriteID: 8445881b615ee82b0800000000000000
+      internalID: -5580271002634922936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_62
+      name: still-life-sheet_71
       rect:
         serializedVersion: 2
-        x: 494
-        y: 90
+        x: 691
+        y: 92
         width: 17
         height: 11
       alignment: 0
@@ -1695,18 +1920,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 56cbe5de7d8338a70800000000000000
-      internalID: 8827962194627837029
+      spriteID: b9ed3c8742f198ec0800000000000000
+      internalID: -3564283388581650789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_63
+      name: still-life-sheet_72
       rect:
         serializedVersion: 2
-        x: 511
-        y: 90
+        x: 708
+        y: 92
         width: 8
         height: 9
       alignment: 0
@@ -1717,18 +1942,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d637795d5164c7490800000000000000
-      internalID: -7747240199392365715
+      spriteID: b4dcca8fa61bbb190800000000000000
+      internalID: -7945562044568384181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_64
+      name: still-life-sheet_73
       rect:
         serializedVersion: 2
-        x: 522
-        y: 90
+        x: 719
+        y: 92
         width: 15
         height: 11
       alignment: 0
@@ -1739,19 +1964,85 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de24433b17cedfda0800000000000000
-      internalID: -5909307162958216467
+      spriteID: 9783d7329e8576ea0800000000000000
+      internalID: -5879633030162859911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_65
+      name: still-life-sheet_74
       rect:
         serializedVersion: 2
-        x: 17
+        x: 6
         y: 3
-        width: 31
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775b0b314ae36d860800000000000000
+      internalID: 7554294299386492279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a48f464547ff7dc0800000000000000
+      internalID: -3638918096987650905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22cff3fcc2d40f10800000000000000
+      internalID: 2235143092791394862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: still-life-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3
+        width: 48
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1761,84 +2052,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed903efd6d944c560800000000000000
-      internalID: 7333067280494037470
+      spriteID: 449d1b3e205b82210800000000000000
+      internalID: 1308494715765774660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_66
+      name: still-life-sheet_78
       rect:
         serializedVersion: 2
-        x: 81
-        y: 2
-        width: 32
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 70a35933dded8a480800000000000000
-      internalID: -8887608822981117433
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_67
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 3
-        width: 31
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45d0f5c0a25067070800000000000000
-      internalID: 8103670257654107476
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_68
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 2
-        width: 36
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd22c844171888430800000000000000
-      internalID: 3785417810286224091
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_69
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 26
+        x: 285
+        y: 27
         width: 8
         height: 11
       alignment: 0
@@ -1849,18 +2074,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b81c8de7575b4180800000000000000
-      internalID: -9130107784404395854
+      spriteID: bfdec6d12e89c91f0800000000000000
+      internalID: -1036785717278347781
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_70
+      name: still-life-sheet_79
       rect:
         serializedVersion: 2
-        x: 279
-        y: 26
+        x: 293
+        y: 27
         width: 8
         height: 9
       alignment: 0
@@ -1871,18 +2096,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b17f7bc7f3523ef60800000000000000
-      internalID: 8062328712528918299
+      spriteID: a646d2dad5de08e30800000000000000
+      internalID: 4503860613963670634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_71
+      name: still-life-sheet_80
       rect:
         serializedVersion: 2
-        x: 287
-        y: 26
+        x: 301
+        y: 27
         width: 8
         height: 9
       alignment: 0
@@ -1893,18 +2118,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b5bdd037d812e82f0800000000000000
-      internalID: -968799978433684645
+      spriteID: 96c7da41aec350bb0800000000000000
+      internalID: -4970499637666546583
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: self-portrait-sheet_72
+      name: still-life-sheet_81
       rect:
         serializedVersion: 2
-        x: 298
-        y: 26
+        x: 312
+        y: 27
         width: 7
         height: 11
       alignment: 0
@@ -1915,8 +2140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 69ce9e91638858fa0800000000000000
-      internalID: -5799079179225273194
+      spriteID: 1f636cdca278c59d0800000000000000
+      internalID: -2784201851711113487
       vertices: []
       indices: 
       edges: []

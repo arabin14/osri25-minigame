@@ -283,14 +283,14 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1061712703}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -162, y: 0.000002861}
-  m_SizeDelta: {x: 189.9923, y: 247.62}
+  m_AnchoredPosition: {x: -372, y: 0}
+  m_SizeDelta: {x: 404.877, y: 607.315}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &96849168
 MonoBehaviour:
@@ -312,7 +312,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -1123853920581028482, guid: 845e71d2e5b9e48b9a327da9a3033d11, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -358,15 +358,15 @@ RectTransform:
   m_GameObject: {fileID: 195424573}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 1.775, y: 1.775, z: 1.775}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 523391160}
   m_Father: {fileID: 1208687874}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -14.8551, y: -14.8551}
+  m_AnchoredPosition: {x: -26.5, y: -25.9}
   m_SizeDelta: {x: 29.7102, y: 29.7102}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &195424575
@@ -503,8 +503,8 @@ RectTransform:
   m_GameObject: {fileID: 205249147}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 2.5, y: 2.5, z: 2.5}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 835424784}
   - {fileID: 960079972}
@@ -512,8 +512,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 142.85013, y: 21.1843}
-  m_SizeDelta: {x: 285.7003, y: 205.2516}
+  m_AnchoredPosition: {x: 342, y: 39}
+  m_SizeDelta: {x: 282, y: 205.2516}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &205249149
 MonoBehaviour:
@@ -686,7 +686,7 @@ GameObject:
   - component: {fileID: 237983092}
   - component: {fileID: 237983091}
   m_Layer: 5
-  m_Name: A3Button
+  m_Name: SelfPortrait
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -708,8 +708,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 358.499, y: -97.584984}
-  m_SizeDelta: {x: 511.857, y: 598.08}
+  m_AnchoredPosition: {x: 468.2119, y: -148.956}
+  m_SizeDelta: {x: 1044.967, y: 1220.994}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &237983091
 MonoBehaviour:
@@ -829,7 +829,7 @@ GameObject:
   - component: {fileID: 372525484}
   - component: {fileID: 372525483}
   m_Layer: 5
-  m_Name: SelectText
+  m_Name: SelectPlayerText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -851,7 +851,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000030518, y: 316}
+  m_AnchoredPosition: {x: 0.000030518, y: 917}
   m_SizeDelta: {x: 1144.786, y: 157}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &372525483
@@ -901,8 +901,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 120
-  m_fontSizeBase: 120
+  m_fontSize: 300
+  m_fontSizeBase: 300
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -939,7 +939,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -1084.2428, y: 0, z: -1073.9165, w: -175.54436}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1089,7 +1089,7 @@ GameObject:
   m_Component:
   - component: {fileID: 489213479}
   m_Layer: 5
-  m_Name: A4Panel
+  m_Name: GiantPlugPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1147,7 +1147,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 651387871}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.30000818}
+  m_AnchorMin: {x: 0, y: 0.8773716}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -1361,8 +1361,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000030517578, y: -43.98456}
-  m_SizeDelta: {x: 0, y: 87.9684}
+  m_AnchoredPosition: {x: 0.000030517578, y: -254.40466}
+  m_SizeDelta: {x: 0, y: 508.80798}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &529405875
 MonoBehaviour:
@@ -1384,35 +1384,28 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Title: A1
-
-
-    Artist/Maker:
-
-
-    Date:
-
-
-    Medium:
-
-
-    Dimensions:
-
-
-    Credit
-    Line:
-
-
-    Edition:
-
-
-    Object Number:
-
-
-    Status:'
+  m_text: "Title: Scholar's Rock\n\n\nArtist/Maker: Chinese\n\n\nDate: 19th\u201320th
+    century\n\n\nMedium: Limestone with wooden stand\n\n\nDimensions: Overall (with
+    base): 25 \xD7 10 1/2 \xD7 8 1/2 in. (63.5 \xD7 26.7 \xD7 21.6 cm)\nOverall (without
+    base): 21 \xD7 10 1/2 \xD7 8 1/2 in. (53.3 \xD7 26.7 \xD7 21.6 cm)\n\n\nCredit
+    Line: Oberlin Friends of Art Fund\n\n\nObject Number: 2017.16A-B\n\n\nStatus:
+    Not on view\n\n\nMore Information: For millennia, unusual rocks have been popular
+    in China for aesthetic, metaphysical, and symbolic reasons. Beyond the unique
+    beauty of the different types of rocks placed in the gardens or studios of Chinese
+    scholars and officials, such stones were seen as a kind of domesticated or educated
+    form of nature. In the microcosm of a garden, the experience of viewing them
+    was equivalent to seeing a rock formation, or even a mountain, in the wild.\n\n\nParticularly
+    prized, however, are rocks of this type, top-heavy and punctuated with a network
+    of holes and indentations. The overall shape is reminiscent of P\xE9ngl\xE1i,
+    one of the legendary Islands of the Immortals, described as a mountain that rises
+    from the Pacific Ocean on a small base. The many holes suggest the magical Daoist
+    cave-heavens (d\xF2ngti\u0101n), a network of caverns and underground tunnels
+    that were believed to connect sacred sites throughout China. By looking at this
+    rock, a scholar could appreciate its distinctive visual qualities, connect with
+    nature, and escape by visualizing these magical spaces."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
+  m_sharedMaterial: {fileID: -6145034927696171910, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1436,8 +1429,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 14
-  m_fontSizeBase: 14
+  m_fontSize: 9
+  m_fontSizeBase: 9
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1448,7 +1441,7 @@ MonoBehaviour:
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
-  m_lineSpacing: 0
+  m_lineSpacing: 25
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -1530,15 +1523,15 @@ RectTransform:
   m_GameObject: {fileID: 536800094}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 1.770711, y: 1.770711, z: 1.770711}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1917338867}
   m_Father: {fileID: 1296302809}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -14.8551, y: -14.8551}
+  m_AnchoredPosition: {x: -26.2, y: -26.4}
   m_SizeDelta: {x: 29.7102, y: 29.7102}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &536800096
@@ -1675,14 +1668,14 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1208687874}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -151, y: -0.0000038147}
-  m_SizeDelta: {x: 264.4976, y: 201.1381}
+  m_AnchoredPosition: {x: -369.895, y: -0.0000019073}
+  m_SizeDelta: {x: 644.777, y: 471.762}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &538254789
 MonoBehaviour:
@@ -1704,7 +1697,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 8102195581405483469, guid: 48a196cf196414b5784f3c4f5f6c120a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1965,15 +1958,15 @@ RectTransform:
   m_GameObject: {fileID: 579193732}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 2.278125, y: 2.278125, z: 2.278125}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1228214174}
   m_Father: {fileID: 1061712703}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 142.85, y: -108.81}
+  m_AnchoredPosition: {x: 340, y: -269.1}
   m_SizeDelta: {x: 140, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &579193734
@@ -2101,8 +2094,8 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1923264406}
   - {fileID: 1081670343}
+  - {fileID: 1923264406}
   - {fileID: 802294470}
   - {fileID: 489213479}
   - {fileID: 1365782922}
@@ -2145,7 +2138,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -2330,8 +2323,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1697564746}
   m_HandleRect: {fileID: 1697564745}
   m_Direction: 2
-  m_Value: 1.0000042
-  m_Size: 0.6999918
+  m_Value: 1.0000013
+  m_Size: 0.28744364
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2456,8 +2449,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1347188541}
   m_HandleRect: {fileID: 1347188540}
   m_Direction: 2
-  m_Value: 1.0000107
-  m_Size: 0.6999918
+  m_Value: 1.0000014
+  m_Size: 0.256321
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2535,8 +2528,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000030517578, y: -43.985134}
-  m_SizeDelta: {x: 0, y: 87.9684}
+  m_AnchoredPosition: {x: 0.000030517578, y: -297.75507}
+  m_SizeDelta: {x: 0, y: 595.5084}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &725285430
 MonoBehaviour:
@@ -2572,35 +2565,30 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Title: A3
-
-
-    Artist/Maker:
-
-
-    Date:
-
-
-    Medium:
-
-
-    Dimensions:
-
-
-    Credit
-    Line:
-
-
-    Edition:
-
-
-    Object Number:
-
-
-    Status:'
+  m_text: "Title: Self-Portrait with Straw Hat and Palette\n\n\nArtist/Maker: Marie-Elisabeth
+    Lemoine (French, 1761\u20131811)\n\n\nDate: ca. 1795\n\n\nMedium: Oil on canvas\n\n\nDimensions:
+    Overall: 21 \xD7 17 5/16 in. (53.3 \xD7 44 cm)\nFrame: 27 1/8 \xD7 23 1/16 \xD7
+    3 9/16 in. (68.9 \xD7 58.5 \xD7 9 cm)\n\n\nCredit Line: R. T. Miller Jr. Fund\n\n\nObject
+    Number: 2022.23\n\n\nStatus: On view\n\n\nMore Information: The work of Marie-Elisabeth
+    Lemoine, along with that of her three sisters and female cousin, is only recently
+    becoming better known. She was among the students of Elisabeth Vig\xE9e Le Brun
+    (1755\u2013 1842), perhaps the best-known female artist at the end of the 18th
+    century\u2014when women painters were beginning to have more opportunities, though
+    still woefully fewer than men. Here she depicts herself in front of her canvas,
+    palette and brushes in hand. Her style of dress, straw hat, and gold hoop earrings\u2014referred
+    to as \u201C\xE0 la cr\xE9ole,\u201D a shape seen as emanating from European
+    colonies\u2014 date the work to the early years of the French Revolution.\n\n\nTables
+    like the one here would have held pastels and artistic materials; the top level
+    would likely have been used for items including oil paint, stored at the time
+    in pig bladders, before metal tubes were invented around 1841. The precise meaning
+    of her gesture towards the table is unclear\u2014but she certainly draws our
+    attention, proudly, to her tools.\n\n\nThis is just the third oil painting by
+    a European woman made prior to 1912 in the AMAM, joining Sofonisba Anguissola\u2019s
+    Double Portrait of a Boy and Girl of the Attavanti Family and Mar\xEDa Josefa
+    S\xE1nchez\u2019s The Crucified Christ in the adjoining gallery."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
+  m_sharedMaterial: {fileID: -6145034927696171910, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2624,8 +2612,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 14
-  m_fontSizeBase: 14
+  m_fontSize: 9
+  m_fontSizeBase: 9
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2636,7 +2624,7 @@ MonoBehaviour:
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
-  m_lineSpacing: 0
+  m_lineSpacing: 25
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -2676,142 +2664,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 725285428}
   m_CullTransparentMesh: 1
---- !u!1 &789271488
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 789271489}
-  - component: {fileID: 789271491}
-  - component: {fileID: 789271490}
-  m_Layer: 5
-  m_Name: A4
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &789271489
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 789271488}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 2007454711}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 7}
-  m_SizeDelta: {x: 233.057, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &789271490
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 789271488}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: Artwork 4
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4283585106
-  m_fontColor: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 50
-  m_fontSizeBase: 50
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 256
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_EmojiFallbackSupport: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &789271491
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 789271488}
-  m_CullTransparentMesh: 1
 --- !u!1 &802294469
 GameObject:
   m_ObjectHideFlags: 0
@@ -2822,7 +2674,7 @@ GameObject:
   m_Component:
   - component: {fileID: 802294470}
   m_Layer: 5
-  m_Name: A3Panel
+  m_Name: SelfPortraitPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2977,7 +2829,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 650, y: 310}
+  m_SizeDelta: {x: 1550, y: 750}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &872114389
 MonoBehaviour:
@@ -3052,8 +2904,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000030517578, y: -43.985134}
-  m_SizeDelta: {x: 0, y: 87.9684}
+  m_AnchoredPosition: {x: 0.000030517578, y: -153.38025}
+  m_SizeDelta: {x: 0, y: 306.76}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &877750569
 MonoBehaviour:
@@ -3089,35 +2941,22 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Title: A2
-
-
-    Artist/Maker:
-
-
-    Date:
-
-
-    Medium:
-
-
-    Dimensions:
-
-
-    Credit
-    Line:
-
-
-    Edition:
-
-
-    Object Number:
-
-
-    Status:'
+  m_text: "Title: Still Life\n\n\nArtist/Maker: Jan Davidsz de Heem (Dutch, 1606\u20131683/4)\n\n\nDate:
+    ca. 1645\n\n\nMedium: Oil on canvas\n\n\nDimensions: Overall: 17 3/4 \xD7 24
+    1/16 in. (45.1 \xD7 61.1 cm)\nFrame: 25 3/4 \xD7 32 \xD7 2 5/8 in. (65.4 \xD7
+    81.3 \xD7 6.7 cm)\n\n\nCredit Line: Mrs. F. F. Prentiss Fund\n\n\nObject Number:
+    1954.21\n\n\nStatus: On view\n\n\nMore Information: In the 1600s, the Dutch Republic
+    enjoyed unprecedented prosperity, largely thanks to its overseas trading and
+    colonial ventures. As luxurious and exotic commodities streamed into Amsterdam
+    from around the world, a new market developed for still-life paintings that celebrated
+    the material wealth of this emerging global empire.\n\n\nMany of the goods shown
+    here traveled substantial distances to be united in this scene. Lemons, for example,
+    were transported across the Alps from the Mediterranean. Porcelain was imported
+    from China, although the bowl pictured here is likely a Dutch imitation of Chinese
+    porcelain."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
+  m_sharedMaterial: {fileID: -6145034927696171910, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3141,8 +2980,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 14
-  m_fontSizeBase: 14
+  m_fontSize: 9
+  m_fontSizeBase: 9
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3153,7 +2992,7 @@ MonoBehaviour:
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
-  m_lineSpacing: 0
+  m_lineSpacing: 25
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -3221,15 +3060,15 @@ RectTransform:
   m_GameObject: {fileID: 896350103}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 1.7697265, y: 1.7697265, z: 1.7697265}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1655593782}
   m_Father: {fileID: 1061712703}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -14.8551, y: -14.8551}
+  m_AnchoredPosition: {x: -26.2, y: -26.2}
   m_SizeDelta: {x: 29.7102, y: 29.7102}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &896350105
@@ -3502,15 +3341,15 @@ RectTransform:
   m_GameObject: {fileID: 935900185}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 2.289375, y: 2.289375, z: 2.289375}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 2041775296}
   m_Father: {fileID: 1208687874}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 142.85, y: -108.81}
+  m_AnchoredPosition: {x: 339, y: -268}
   m_SizeDelta: {x: 140, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &935900187
@@ -3689,8 +3528,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 519846402}
   m_HandleRect: {fileID: 519846401}
   m_Direction: 2
-  m_Value: 1.0000107
-  m_Size: 0.6999918
+  m_Value: 1.0000002
+  m_Size: 0.122628406
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3761,8 +3600,8 @@ RectTransform:
   m_GameObject: {fileID: 1030738008}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 2.3874, y: 2.3874, z: 2.3874}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 2051918286}
   - {fileID: 1187739036}
@@ -3770,8 +3609,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 142.85013, y: 21.1843}
-  m_SizeDelta: {x: 285.7003, y: 205.2516}
+  m_AnchoredPosition: {x: 346, y: 38}
+  m_SizeDelta: {x: 295, y: 215}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1030738010
 MonoBehaviour:
@@ -3880,7 +3719,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 650, y: 310}
+  m_SizeDelta: {x: 1550, y: 750}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1061712704
 MonoBehaviour:
@@ -3930,7 +3769,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1081670343}
   m_Layer: 5
-  m_Name: A2Panel
+  m_Name: StillLifePanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4038,8 +3877,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2021049478}
   m_HandleRect: {fileID: 2021049477}
   m_Direction: 2
-  m_Value: 1.0000107
-  m_Size: 0.6999918
+  m_Value: 1.000001
+  m_Size: 0.41206688
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -4121,7 +3960,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 650, y: 310}
+  m_SizeDelta: {x: 1550, y: 750}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1208687875
 MonoBehaviour:
@@ -4325,7 +4164,7 @@ RectTransform:
   m_GameObject: {fileID: 1233452158}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.5124, y: 2.5124, z: 2.5124}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 410826184}
@@ -4334,8 +4173,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 142.85013, y: 21.1843}
-  m_SizeDelta: {x: 285.7003, y: 205.2516}
+  m_AnchoredPosition: {x: 343, y: 38}
+  m_SizeDelta: {x: 280.7003, y: 205.2516}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1233452160
 MonoBehaviour:
@@ -4444,7 +4283,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 650, y: 310}
+  m_SizeDelta: {x: 1550, y: 750}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1296302810
 MonoBehaviour:
@@ -4519,8 +4358,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000030517578, y: -43.985134}
-  m_SizeDelta: {x: 0, y: 87.9684}
+  m_AnchoredPosition: {x: 0.000030517578, y: -734.2545}
+  m_SizeDelta: {x: 0, y: 1468.5084}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1310232056
 MonoBehaviour:
@@ -4556,35 +4395,58 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Title: A4
-
-
-    Artist/Maker:
-
-
-    Date:
-
-
-    Medium:
-
-
-    Dimensions:
-
-
-    Credit
-    Line:
-
-
-    Edition:
-
-
-    Object Number:
-
-
-    Status:'
+  m_text: "Title: Giant Three-Way Plug (Cube Tap)\n\n\nArtist/Maker: Claes Oldenburg
+    (American, born in Sweden, 1929\u20132022)\n\n\nDate: 1970\n\n\nMedium: Cor-Ten
+    steel and polished bronze\n\n\nDimensions: Overall: 58 1/4 \xD7 78 1/2 \xD7 119
+    in., 3500 lb. (148 \xD7 199.4 \xD7 302.3 cm, 1587.59 kg)\n\n\nCredit Line: Fund
+    for Contemporary Art\n\n\nObject Number: 1970.38\n\n\nStatus: On view\n\n\nMore
+    Information: Claes Oldenburg's first commissioned permanent outdoor sculpture,
+    Giant Three-Way Plug, comprises a 3.5-ton Cor-Ten steel body with polished bronze
+    prongs. Fabricated in an edition of three at the Lippincott factory in North
+    Haven, Connecticut, the subject was chosen from several different models (including
+    a soft monumental ice pack) the artist presented after a series of visits to
+    Oberlin. The sculpture was commissioned by the AMAM in January 1969, installed
+    on August 10, 1970, and dedicated on September 14 of that year. The two other
+    editioned examples were executed later and are in the collections of the Saint
+    Louis Art Museum and the Philadelphia Museum of Art.\n\n\nIn January 1963, Oldenburg
+    participated -along with Joan Mitchell and Robert Rauschenberg-in the Three Young
+    Americans exhibition at the museum. Ellen Johnson remarked in the 1963 AMAM Bulletin
+    that Oldenburg's current work was more sculpture than painting, with a new interest
+    in composing volumes. This exhibition and Oberlin's ongoing friendship with Oldenburg
+    forged the way for the museum to work with the artist again in the late 1960s
+    to commission a monumental sculpture. Plug developed from a concept that Oldenburg
+    had already produced in different versions, notably hard and soft plugs suspended
+    from above, with prongs pointing down. Much larger in scale, placed directly
+    on the ground, and partly buried, Oberlin's Plug continues to engage powerfully
+    the environment that surrounds it. Johnson described Oberlin as a place where
+    people are intrigued and engaged with the sculpture and \"where everyone accepts
+    that it is a serious work of art, which began when a major sculptor looked at
+    a little twenty-five cent plug that the rest of us take for granted.\"\n\n\nAmong
+    the multiple readings of the sculpture is the artist's suggestion that it could
+    serve as a monument to Thomas Edison, who was born near Oberlin in Milan, Ohio.
+    Oldenburg also remarked that if Plug were installed with the prongs embedded
+    in the ground, the idea of contact, or plugging in, would have been lost.\n\n\nIn
+    1970, during a visit to finalize the site, Oldenburg said, \"there are plugs
+    lying around in drawers all over the world; they are nothing until contact is
+    made.\" For the 1970 installation, the bronze prongs pointed west toward Tappan
+    Square, the large, treelined park directly across from the museum, effectively
+    connecting the visual arts with the rest of the campus and the town of Oberlin.\n\n\nThe
+    artist's wit and whimsy came alive again for Oberlin when the Venturi, Rauch,
+    and Scott Brown addition to the AMAM and Art Building was completed in 1977.
+    The addition was in its early planning stages when Oldenburg's Plug was first
+    sited, and he knew the sculpture would eventually be relocated. Oldenburg chose
+    a new site in 1976, locating the Plug on a downward slope on the museum's southwest
+    lawn, with the bronze prongs oriented toward the new art building. Oldenburg
+    also responded to the new building in visual form with Alternate Proposal (AMAM
+    1979.29) , a design for the museum addition in the shape of mammoth three-way
+    plugs linked together to form connected pods.\n\n\nToday, thanks to Ellen Johnson's
+    1998 bequest and gifts from many generous donors, there are thirty-eight sculptures,
+    drawings, and prints by Oldenburg in the museum's collection. An outstanding
+    recent gift, Giant Saw-Soft Version (Saw Flag), from 1966, was presented to the
+    museum in 2003 by Claes Oldenburg and Coosje van Bruggen in honor of Ellen Johnson."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
+  m_sharedMaterial: {fileID: -6145034927696171910, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4608,8 +4470,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 14
-  m_fontSizeBase: 14
+  m_fontSize: 9
+  m_fontSizeBase: 9
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4620,7 +4482,7 @@ MonoBehaviour:
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
-  m_lineSpacing: 0
+  m_lineSpacing: 25
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -4673,7 +4535,7 @@ GameObject:
   - component: {fileID: 1326936902}
   - component: {fileID: 1326936901}
   m_Layer: 5
-  m_Name: A1Button
+  m_Name: ScholarsRock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4695,8 +4557,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -760.88, y: -71.06}
-  m_SizeDelta: {x: 376.98, y: 545.03}
+  m_AnchoredPosition: {x: -570.65, y: -148.956}
+  m_SizeDelta: {x: 813.995, y: 1220.994}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1326936901
 MonoBehaviour:
@@ -4786,7 +4648,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 3433724917839020044, guid: c9d84386da29b4142b4223bc7177f9b9, type: 3}
+  m_Sprite: {fileID: -1123853920581028482, guid: 845e71d2e5b9e48b9a327da9a3033d11, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4832,7 +4694,7 @@ RectTransform:
   m_GameObject: {fileID: 1344177074}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.5059376, y: 2.5059376, z: 2.5059376}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 217178241}
@@ -4841,8 +4703,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 142.85013, y: 21.1843}
-  m_SizeDelta: {x: 285.7003, y: 205.2516}
+  m_AnchoredPosition: {x: 342, y: 39}
+  m_SizeDelta: {x: 280, y: 205.252}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1344177076
 MonoBehaviour:
@@ -4944,7 +4806,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1870121942}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.30000818}
+  m_AnchorMin: {x: 0, y: 0.743679}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -5016,8 +4878,8 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 372525482}
-  - {fileID: 1326936900}
   - {fileID: 1491734664}
+  - {fileID: 1326936900}
   - {fileID: 237983090}
   - {fileID: 2007454711}
   m_Father: {fileID: 590851522}
@@ -5027,142 +4889,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &1376860740
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1376860741}
-  - component: {fileID: 1376860743}
-  - component: {fileID: 1376860742}
-  m_Layer: 5
-  m_Name: A2
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1376860741
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1376860740}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1491734664}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000015259, y: 0}
-  m_SizeDelta: {x: 233.057, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1376860742
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1376860740}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: Artwork 2
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4283585106
-  m_fontColor: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 50
-  m_fontSizeBase: 50
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 256
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_EmojiFallbackSupport: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &1376860743
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1376860740}
-  m_CullTransparentMesh: 1
 --- !u!1 &1491734663
 GameObject:
   m_ObjectHideFlags: 0
@@ -5176,7 +4902,7 @@ GameObject:
   - component: {fileID: 1491734666}
   - component: {fileID: 1491734665}
   m_Layer: 5
-  m_Name: A2Button
+  m_Name: StillLife
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5193,14 +4919,13 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1376860741}
+  m_Children: []
   m_Father: {fileID: 1365782922}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -238.54193, y: -39.02803}
-  m_SizeDelta: {x: 493.885, y: 378.164}
+  m_AnchoredPosition: {x: -1696, y: -148.956}
+  m_SizeDelta: {x: 1220.994, y: 893.36}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1491734665
 MonoBehaviour:
@@ -5290,8 +5015,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 8102195581405483469, guid: 48a196cf196414b5784f3c4f5f6c120a, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -5336,14 +5061,14 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 872114388}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -160, y: -0.0000066757}
-  m_SizeDelta: {x: 198.6598, y: 249.8973}
+  m_AnchoredPosition: {x: -375, y: -0.000013351}
+  m_SizeDelta: {x: 510.073, y: 595.995}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1556801979
 MonoBehaviour:
@@ -5365,7 +5090,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -8666342059920391163, guid: ec999649111834f2d924d17069315177, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5411,15 +5136,15 @@ RectTransform:
   m_GameObject: {fileID: 1567754255}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 1.7625, y: 1.7625, z: 1.7625}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 542982991}
   m_Father: {fileID: 872114388}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -14.8551, y: -14.8551}
+  m_AnchoredPosition: {x: -26.2, y: -26.2}
   m_SizeDelta: {x: 29.7102, y: 29.7102}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1567754257
@@ -5696,7 +5421,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 435726702}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.30000818}
+  m_AnchorMin: {x: 0, y: 0.71255636}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -5801,7 +5526,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.9245283, g: 0.9044007, b: 0.8591136, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -5890,15 +5615,15 @@ RectTransform:
   m_GameObject: {fileID: 1876717969}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 2.280973, y: 2.280973, z: 2.280973}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 912249044}
   m_Father: {fileID: 872114388}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 142.85, y: -108.81}
+  m_AnchoredPosition: {x: 339, y: -268}
   m_SizeDelta: {x: 140, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1876717971
@@ -6141,7 +5866,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1923264406}
   m_Layer: 5
-  m_Name: A1Panel
+  m_Name: ScholarsRockPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6195,15 +5920,15 @@ RectTransform:
   m_GameObject: {fileID: 1970291910}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 2.3098948, y: 2.3098948, z: 2.3098948}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 23315150}
   m_Father: {fileID: 1296302809}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 142.85, y: -108.81}
+  m_AnchoredPosition: {x: 336, y: -268}
   m_SizeDelta: {x: 140, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1970291912
@@ -6463,7 +6188,7 @@ GameObject:
   - component: {fileID: 2007454713}
   - component: {fileID: 2007454712}
   m_Layer: 5
-  m_Name: A4Button
+  m_Name: GiantPlug
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6480,14 +6205,13 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 789271489}
+  m_Children: []
   m_Father: {fileID: 1365782922}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 819, y: -42}
-  m_SizeDelta: {x: 259.18, y: 384.105}
+  m_AnchoredPosition: {x: 1706.5018, y: -148.956}
+  m_SizeDelta: {x: 1220.994, y: 816.03}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2007454712
 MonoBehaviour:
@@ -6577,8 +6301,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 3009799844950437992, guid: 7872e8d3da3a74c26bdc5d9a6dced067, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -6627,7 +6351,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 658250560}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.30000818}
+  m_AnchorMin: {x: 0, y: 0.5879331}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -6698,14 +6422,14 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1296302809}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -162, y: -0.0000038147}
-  m_SizeDelta: {x: 165.388, y: 251.1092}
+  m_AnchoredPosition: {x: -371, y: 0.0000066757}
+  m_SizeDelta: {x: 644.301, y: 430.61}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2025128241
 MonoBehaviour:
@@ -6727,7 +6451,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 3009799844950437992, guid: 7872e8d3da3a74c26bdc5d9a6dced067, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
