@@ -253,7 +253,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -267,7 +267,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -291,7 +291,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -319,10 +319,10 @@ TextureImporter:
       name: self-portrait-sheet_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 386
-        width: 34
-        height: 51
+        x: 0
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,10 +341,10 @@ TextureImporter:
       name: self-portrait-sheet_1
       rect:
         serializedVersion: 2
-        x: 78
-        y: 388
-        width: 36
-        height: 49
+        x: 64
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,10 +363,10 @@ TextureImporter:
       name: self-portrait-sheet_2
       rect:
         serializedVersion: 2
-        x: 142
-        y: 388
-        width: 36
-        height: 49
+        x: 128
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -385,10 +385,10 @@ TextureImporter:
       name: self-portrait-sheet_3
       rect:
         serializedVersion: 2
-        x: 208
-        y: 386
-        width: 34
-        height: 50
+        x: 192
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -407,10 +407,10 @@ TextureImporter:
       name: self-portrait-sheet_4
       rect:
         serializedVersion: 2
-        x: 272
-        y: 386
-        width: 34
-        height: 51
+        x: 256
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -429,10 +429,10 @@ TextureImporter:
       name: self-portrait-sheet_5
       rect:
         serializedVersion: 2
-        x: 337
-        y: 386
-        width: 39
-        height: 51
+        x: 320
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -451,10 +451,10 @@ TextureImporter:
       name: self-portrait-sheet_6
       rect:
         serializedVersion: 2
-        x: 401
-        y: 386
-        width: 39
-        height: 51
+        x: 384
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -473,10 +473,10 @@ TextureImporter:
       name: self-portrait-sheet_7
       rect:
         serializedVersion: 2
-        x: 472
-        y: 411
-        width: 8
-        height: 11
+        x: 448
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -495,10 +495,10 @@ TextureImporter:
       name: self-portrait-sheet_8
       rect:
         serializedVersion: 2
-        x: 480
-        y: 411
-        width: 8
-        height: 9
+        x: 512
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -517,10 +517,10 @@ TextureImporter:
       name: self-portrait-sheet_9
       rect:
         serializedVersion: 2
-        x: 488
-        y: 408
-        width: 12
-        height: 14
+        x: 0
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -539,10 +539,10 @@ TextureImporter:
       name: self-portrait-sheet_10
       rect:
         serializedVersion: 2
-        x: 500
-        y: 411
-        width: 8
-        height: 9
+        x: 64
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -561,10 +561,10 @@ TextureImporter:
       name: self-portrait-sheet_11
       rect:
         serializedVersion: 2
-        x: 511
-        y: 411
-        width: 7
-        height: 11
+        x: 128
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -583,10 +583,10 @@ TextureImporter:
       name: self-portrait-sheet_12
       rect:
         serializedVersion: 2
-        x: 518
-        y: 411
-        width: 16
-        height: 11
+        x: 192
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -605,10 +605,10 @@ TextureImporter:
       name: self-portrait-sheet_13
       rect:
         serializedVersion: 2
-        x: 17
-        y: 322
-        width: 39
-        height: 51
+        x: 256
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -627,10 +627,10 @@ TextureImporter:
       name: self-portrait-sheet_14
       rect:
         serializedVersion: 2
-        x: 81
-        y: 322
-        width: 39
-        height: 51
+        x: 320
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -649,10 +649,10 @@ TextureImporter:
       name: self-portrait-sheet_15
       rect:
         serializedVersion: 2
-        x: 145
-        y: 322
-        width: 39
-        height: 51
+        x: 384
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -671,10 +671,10 @@ TextureImporter:
       name: self-portrait-sheet_16
       rect:
         serializedVersion: 2
-        x: 209
-        y: 322
-        width: 39
-        height: 50
+        x: 448
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -693,10 +693,10 @@ TextureImporter:
       name: self-portrait-sheet_17
       rect:
         serializedVersion: 2
-        x: 273
-        y: 322
-        width: 39
-        height: 50
+        x: 512
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -715,10 +715,10 @@ TextureImporter:
       name: self-portrait-sheet_18
       rect:
         serializedVersion: 2
-        x: 337
-        y: 322
-        width: 39
-        height: 51
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -737,10 +737,10 @@ TextureImporter:
       name: self-portrait-sheet_19
       rect:
         serializedVersion: 2
-        x: 401
-        y: 322
-        width: 39
-        height: 51
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -759,10 +759,10 @@ TextureImporter:
       name: self-portrait-sheet_20
       rect:
         serializedVersion: 2
-        x: 465
-        y: 322
-        width: 39
-        height: 51
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -781,10 +781,10 @@ TextureImporter:
       name: self-portrait-sheet_21
       rect:
         serializedVersion: 2
-        x: 529
-        y: 322
-        width: 39
-        height: 51
+        x: 192
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -803,10 +803,10 @@ TextureImporter:
       name: self-portrait-sheet_22
       rect:
         serializedVersion: 2
-        x: 18
-        y: 258
-        width: 38
-        height: 50
+        x: 256
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -825,10 +825,10 @@ TextureImporter:
       name: self-portrait-sheet_23
       rect:
         serializedVersion: 2
-        x: 82
-        y: 258
-        width: 38
-        height: 50
+        x: 320
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -847,10 +847,10 @@ TextureImporter:
       name: self-portrait-sheet_24
       rect:
         serializedVersion: 2
-        x: 145
-        y: 258
-        width: 39
-        height: 51
+        x: 448
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -869,10 +869,10 @@ TextureImporter:
       name: self-portrait-sheet_25
       rect:
         serializedVersion: 2
-        x: 209
-        y: 258
-        width: 39
-        height: 51
+        x: 512
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -891,10 +891,10 @@ TextureImporter:
       name: self-portrait-sheet_26
       rect:
         serializedVersion: 2
-        x: 272
-        y: 260
-        width: 41
-        height: 49
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -913,10 +913,10 @@ TextureImporter:
       name: self-portrait-sheet_27
       rect:
         serializedVersion: 2
-        x: 328
-        y: 282
-        width: 8
-        height: 11
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -935,10 +935,10 @@ TextureImporter:
       name: self-portrait-sheet_28
       rect:
         serializedVersion: 2
-        x: 336
-        y: 282
-        width: 8
-        height: 9
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -957,10 +957,10 @@ TextureImporter:
       name: self-portrait-sheet_29
       rect:
         serializedVersion: 2
-        x: 344
-        y: 282
-        width: 12
-        height: 9
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -979,10 +979,10 @@ TextureImporter:
       name: self-portrait-sheet_30
       rect:
         serializedVersion: 2
-        x: 356
-        y: 280
-        width: 8
-        height: 11
+        x: 256
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1001,10 +1001,10 @@ TextureImporter:
       name: self-portrait-sheet_31
       rect:
         serializedVersion: 2
-        x: 367
-        y: 282
-        width: 8
-        height: 11
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1023,10 +1023,10 @@ TextureImporter:
       name: self-portrait-sheet_32
       rect:
         serializedVersion: 2
-        x: 494
-        y: 282
-        width: 17
-        height: 11
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1045,10 +1045,10 @@ TextureImporter:
       name: self-portrait-sheet_33
       rect:
         serializedVersion: 2
-        x: 511
-        y: 282
-        width: 8
-        height: 9
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1067,10 +1067,10 @@ TextureImporter:
       name: self-portrait-sheet_34
       rect:
         serializedVersion: 2
-        x: 522
-        y: 282
-        width: 16
-        height: 11
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1089,10 +1089,10 @@ TextureImporter:
       name: self-portrait-sheet_35
       rect:
         serializedVersion: 2
-        x: 16
-        y: 195
-        width: 37
-        height: 51
+        x: 256
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1111,10 +1111,10 @@ TextureImporter:
       name: self-portrait-sheet_36
       rect:
         serializedVersion: 2
-        x: 79
-        y: 194
-        width: 32
-        height: 50
+        x: 320
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1133,10 +1133,10 @@ TextureImporter:
       name: self-portrait-sheet_37
       rect:
         serializedVersion: 2
-        x: 144
-        y: 195
-        width: 37
-        height: 51
+        x: 384
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1155,10 +1155,10 @@ TextureImporter:
       name: self-portrait-sheet_38
       rect:
         serializedVersion: 2
-        x: 207
-        y: 194
-        width: 43
-        height: 50
+        x: 448
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1177,10 +1177,10 @@ TextureImporter:
       name: self-portrait-sheet_39
       rect:
         serializedVersion: 2
-        x: 271
-        y: 218
-        width: 8
-        height: 11
+        x: 512
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1199,10 +1199,10 @@ TextureImporter:
       name: self-portrait-sheet_40
       rect:
         serializedVersion: 2
-        x: 279
-        y: 218
-        width: 8
-        height: 9
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1221,10 +1221,10 @@ TextureImporter:
       name: self-portrait-sheet_41
       rect:
         serializedVersion: 2
-        x: 287
-        y: 218
-        width: 8
-        height: 9
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1243,10 +1243,10 @@ TextureImporter:
       name: self-portrait-sheet_42
       rect:
         serializedVersion: 2
-        x: 298
-        y: 218
-        width: 8
-        height: 11
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1265,10 +1265,10 @@ TextureImporter:
       name: self-portrait-sheet_43
       rect:
         serializedVersion: 2
-        x: 16
-        y: 130
-        width: 34
-        height: 51
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1287,10 +1287,10 @@ TextureImporter:
       name: self-portrait-sheet_44
       rect:
         serializedVersion: 2
-        x: 80
-        y: 130
-        width: 34
-        height: 51
+        x: 256
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1309,10 +1309,10 @@ TextureImporter:
       name: self-portrait-sheet_45
       rect:
         serializedVersion: 2
-        x: 144
-        y: 130
-        width: 34
-        height: 51
+        x: 320
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1331,10 +1331,10 @@ TextureImporter:
       name: self-portrait-sheet_46
       rect:
         serializedVersion: 2
-        x: 208
-        y: 130
-        width: 34
-        height: 50
+        x: 448
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1353,10 +1353,10 @@ TextureImporter:
       name: self-portrait-sheet_47
       rect:
         serializedVersion: 2
-        x: 272
-        y: 130
-        width: 34
-        height: 50
+        x: 512
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1375,10 +1375,10 @@ TextureImporter:
       name: self-portrait-sheet_48
       rect:
         serializedVersion: 2
-        x: 336
-        y: 130
-        width: 34
-        height: 51
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1397,10 +1397,10 @@ TextureImporter:
       name: self-portrait-sheet_49
       rect:
         serializedVersion: 2
-        x: 400
-        y: 130
-        width: 34
-        height: 51
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1419,10 +1419,10 @@ TextureImporter:
       name: self-portrait-sheet_50
       rect:
         serializedVersion: 2
-        x: 464
-        y: 130
-        width: 34
-        height: 51
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1441,10 +1441,10 @@ TextureImporter:
       name: self-portrait-sheet_51
       rect:
         serializedVersion: 2
-        x: 528
-        y: 130
-        width: 34
-        height: 51
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1463,10 +1463,10 @@ TextureImporter:
       name: self-portrait-sheet_52
       rect:
         serializedVersion: 2
-        x: 16
-        y: 66
-        width: 34
-        height: 50
+        x: 256
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1481,451 +1481,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_53
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 66
-        width: 34
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7fc1d680ac00606f0800000000000000
-      internalID: -718886222794253065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_54
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 66
-        width: 35
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e3ac2cad1ecbea160800000000000000
-      internalID: 7038770945850526270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_55
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 66
-        width: 35
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 63e09391c66885000800000000000000
-      internalID: 24917596788297270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_56
-      rect:
-        serializedVersion: 2
-        x: 270
-        y: 67
-        width: 36
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 43e8323d0323f30e0800000000000000
-      internalID: -2288054900398780876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_57
-      rect:
-        serializedVersion: 2
-        x: 328
-        y: 90
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6b458aa17edfc7280800000000000000
-      internalID: -9044074782640286538
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_58
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 90
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 706d2274f97dd8960800000000000000
-      internalID: 7605972424791873031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_59
-      rect:
-        serializedVersion: 2
-        x: 344
-        y: 90
-        width: 12
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2311fd989916667e0800000000000000
-      internalID: -1772622091252723406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_60
-      rect:
-        serializedVersion: 2
-        x: 356
-        y: 88
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c6ce6889f55f4aba0800000000000000
-      internalID: -6078463806113649556
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_61
-      rect:
-        serializedVersion: 2
-        x: 367
-        y: 90
-        width: 7
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f2f1a71630e58f220800000000000000
-      internalID: 2519867360127098671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_62
-      rect:
-        serializedVersion: 2
-        x: 494
-        y: 90
-        width: 17
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 56cbe5de7d8338a70800000000000000
-      internalID: 8827962194627837029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_63
-      rect:
-        serializedVersion: 2
-        x: 511
-        y: 90
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d637795d5164c7490800000000000000
-      internalID: -7747240199392365715
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_64
-      rect:
-        serializedVersion: 2
-        x: 522
-        y: 90
-        width: 15
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de24433b17cedfda0800000000000000
-      internalID: -5909307162958216467
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_65
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 3
-        width: 31
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed903efd6d944c560800000000000000
-      internalID: 7333067280494037470
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_66
-      rect:
-        serializedVersion: 2
-        x: 81
-        y: 2
-        width: 32
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 70a35933dded8a480800000000000000
-      internalID: -8887608822981117433
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_67
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 3
-        width: 31
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45d0f5c0a25067070800000000000000
-      internalID: 8103670257654107476
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_68
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 2
-        width: 36
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd22c844171888430800000000000000
-      internalID: 3785417810286224091
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_69
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 26
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b81c8de7575b4180800000000000000
-      internalID: -9130107784404395854
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_70
-      rect:
-        serializedVersion: 2
-        x: 279
-        y: 26
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b17f7bc7f3523ef60800000000000000
-      internalID: 8062328712528918299
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_71
-      rect:
-        serializedVersion: 2
-        x: 287
-        y: 26
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b5bdd037d812e82f0800000000000000
-      internalID: -968799978433684645
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: self-portrait-sheet_72
-      rect:
-        serializedVersion: 2
-        x: 298
-        y: 26
-        width: 7
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 69ce9e91638858fa0800000000000000
-      internalID: -5799079179225273194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8c0be1b4c20734f0f93428c6d0adb501
     internalID: 0
     vertices: []
     indices: 
@@ -1934,7 +1494,60 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      self-portrait-sheet_0: 6651598066161264827
+      self-portrait-sheet_1: -6039647619889291706
+      self-portrait-sheet_10: 3114668569410248584
+      self-portrait-sheet_11: -6896903216613102530
+      self-portrait-sheet_12: 8838515006205221938
+      self-portrait-sheet_13: 7625366763715625178
+      self-portrait-sheet_14: -5503786568761409218
+      self-portrait-sheet_15: 2283577249606228303
+      self-portrait-sheet_16: -3847333946749528410
+      self-portrait-sheet_17: -6457770990776466102
+      self-portrait-sheet_18: 1585911704629294862
+      self-portrait-sheet_19: 8684051948387620450
+      self-portrait-sheet_2: 5372167089294165291
+      self-portrait-sheet_20: -5135102048845943755
+      self-portrait-sheet_21: -8379698903259188152
+      self-portrait-sheet_22: 4566378386949672787
+      self-portrait-sheet_23: -988443137127178601
+      self-portrait-sheet_24: 4755320144396025807
+      self-portrait-sheet_25: 9005425379289427596
+      self-portrait-sheet_26: 4255078113884984815
+      self-portrait-sheet_27: -1412672654348164781
+      self-portrait-sheet_28: 7757273031070486166
+      self-portrait-sheet_29: -1146282142199040935
+      self-portrait-sheet_3: 7851968364105157731
+      self-portrait-sheet_30: 8238408325854220389
+      self-portrait-sheet_31: 5011530526020127344
+      self-portrait-sheet_32: 808116690581448129
+      self-portrait-sheet_33: -2219142038803696616
+      self-portrait-sheet_34: 5003004314375153882
+      self-portrait-sheet_35: -3505851423590397063
+      self-portrait-sheet_36: 1208114932484162941
+      self-portrait-sheet_37: 6582860321787518180
+      self-portrait-sheet_38: -8006389393276734410
+      self-portrait-sheet_39: -8370809566491916677
+      self-portrait-sheet_4: -843245028054695056
+      self-portrait-sheet_40: 2536779336628235975
+      self-portrait-sheet_41: 327938377772394308
+      self-portrait-sheet_42: 5357768370694118341
+      self-portrait-sheet_43: -5410332077555933450
+      self-portrait-sheet_44: -3173470035631803151
+      self-portrait-sheet_45: -2540109811443586358
+      self-portrait-sheet_46: 2488881623446781838
+      self-portrait-sheet_47: -7155544963982233598
+      self-portrait-sheet_48: 9168152196020582392
+      self-portrait-sheet_49: 1631522179785674790
+      self-portrait-sheet_5: 6026518555300223800
+      self-portrait-sheet_50: -1221073950349239796
+      self-portrait-sheet_51: 3942908183122774560
+      self-portrait-sheet_52: -8883733081071440536
+      self-portrait-sheet_6: 3954266358244131256
+      self-portrait-sheet_7: -5847796000189831230
+      self-portrait-sheet_8: 7749974208494241931
+      self-portrait-sheet_9: -6979262719502882942
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

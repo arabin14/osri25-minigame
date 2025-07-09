@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class StillLifeMovement : MonoBehaviour
 {
     private float horizontal;
     private float speed = 12f;
@@ -11,12 +11,25 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
 
+    public Animator animator;
+
 
 
     // Update is called once per frame
     void Update()
     {
         horizontal = Input.GetAxisRaw("Horizontal");
+
+        // play run animation
+        animator.SetFloat("Speed", Mathf.Abs(horizontal * speed));
+
+        // trying to figure out asymmetrical animations based on direction
+        if (isFacingRight)
+        {
+            animator.SetInteger("Direction", 1);
+        } else {
+            animator.SetInteger("Direction", 0);
+        }
 
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {

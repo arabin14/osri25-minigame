@@ -280,7 +280,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -294,7 +294,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -318,7 +318,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -346,10 +346,10 @@ TextureImporter:
       name: still-life-sheet_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 387
-        width: 46
-        height: 51
+        x: 0
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,10 +368,10 @@ TextureImporter:
       name: still-life-sheet_1
       rect:
         serializedVersion: 2
-        x: 71
-        y: 387
-        width: 48
-        height: 54
+        x: 64
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,10 +390,10 @@ TextureImporter:
       name: still-life-sheet_2
       rect:
         serializedVersion: 2
-        x: 135
-        y: 387
-        width: 48
-        height: 54
+        x: 128
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,10 +412,10 @@ TextureImporter:
       name: still-life-sheet_3
       rect:
         serializedVersion: 2
-        x: 199
-        y: 387
-        width: 48
-        height: 50
+        x: 192
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,10 +434,10 @@ TextureImporter:
       name: still-life-sheet_4
       rect:
         serializedVersion: 2
-        x: 213
-        y: 428
-        width: 15
-        height: 12
+        x: 256
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,10 +456,10 @@ TextureImporter:
       name: still-life-sheet_5
       rect:
         serializedVersion: 2
-        x: 263
-        y: 387
-        width: 46
-        height: 51
+        x: 320
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,10 +478,10 @@ TextureImporter:
       name: still-life-sheet_6
       rect:
         serializedVersion: 2
-        x: 327
-        y: 387
-        width: 47
-        height: 51
+        x: 384
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,10 +500,10 @@ TextureImporter:
       name: still-life-sheet_7
       rect:
         serializedVersion: 2
-        x: 391
-        y: 387
-        width: 47
-        height: 51
+        x: 448
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -522,10 +522,10 @@ TextureImporter:
       name: still-life-sheet_8
       rect:
         serializedVersion: 2
-        x: 478
-        y: 409
-        width: 8
-        height: 11
+        x: 512
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,10 +544,10 @@ TextureImporter:
       name: still-life-sheet_9
       rect:
         serializedVersion: 2
-        x: 486
-        y: 409
-        width: 8
-        height: 9
+        x: 0
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,10 +566,10 @@ TextureImporter:
       name: still-life-sheet_10
       rect:
         serializedVersion: 2
-        x: 494
-        y: 406
-        width: 12
-        height: 14
+        x: 64
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -588,10 +588,10 @@ TextureImporter:
       name: still-life-sheet_11
       rect:
         serializedVersion: 2
-        x: 506
-        y: 409
-        width: 8
-        height: 9
+        x: 128
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -610,10 +610,10 @@ TextureImporter:
       name: still-life-sheet_12
       rect:
         serializedVersion: 2
-        x: 517
-        y: 409
-        width: 7
-        height: 11
+        x: 192
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -632,10 +632,10 @@ TextureImporter:
       name: still-life-sheet_13
       rect:
         serializedVersion: 2
-        x: 524
-        y: 409
-        width: 16
-        height: 11
+        x: 256
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -654,10 +654,10 @@ TextureImporter:
       name: still-life-sheet_14
       rect:
         serializedVersion: 2
-        x: 7
-        y: 323
-        width: 47
-        height: 51
+        x: 320
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -676,10 +676,10 @@ TextureImporter:
       name: still-life-sheet_15
       rect:
         serializedVersion: 2
-        x: 71
-        y: 323
-        width: 47
-        height: 51
+        x: 384
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -698,10 +698,10 @@ TextureImporter:
       name: still-life-sheet_16
       rect:
         serializedVersion: 2
-        x: 135
-        y: 323
-        width: 47
-        height: 51
+        x: 448
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -720,10 +720,10 @@ TextureImporter:
       name: still-life-sheet_17
       rect:
         serializedVersion: 2
-        x: 200
-        y: 323
-        width: 46
-        height: 51
+        x: 512
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -742,10 +742,10 @@ TextureImporter:
       name: still-life-sheet_18
       rect:
         serializedVersion: 2
-        x: 264
-        y: 323
-        width: 46
-        height: 51
+        x: 576
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -764,10 +764,10 @@ TextureImporter:
       name: still-life-sheet_19
       rect:
         serializedVersion: 2
-        x: 328
-        y: 323
-        width: 46
-        height: 51
+        x: 640
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -786,10 +786,10 @@ TextureImporter:
       name: still-life-sheet_20
       rect:
         serializedVersion: 2
-        x: 391
-        y: 323
-        width: 47
-        height: 51
+        x: 704
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -808,10 +808,10 @@ TextureImporter:
       name: still-life-sheet_21
       rect:
         serializedVersion: 2
-        x: 455
-        y: 323
-        width: 47
-        height: 51
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -830,10 +830,10 @@ TextureImporter:
       name: still-life-sheet_22
       rect:
         serializedVersion: 2
-        x: 519
-        y: 323
-        width: 47
-        height: 51
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -852,10 +852,10 @@ TextureImporter:
       name: still-life-sheet_23
       rect:
         serializedVersion: 2
-        x: 582
-        y: 323
-        width: 47
-        height: 51
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -874,10 +874,10 @@ TextureImporter:
       name: still-life-sheet_24
       rect:
         serializedVersion: 2
-        x: 646
-        y: 323
-        width: 47
-        height: 51
+        x: 192
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -896,10 +896,10 @@ TextureImporter:
       name: still-life-sheet_25
       rect:
         serializedVersion: 2
-        x: 710
-        y: 323
-        width: 47
-        height: 51
+        x: 256
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -918,10 +918,10 @@ TextureImporter:
       name: still-life-sheet_26
       rect:
         serializedVersion: 2
-        x: 7
-        y: 259
-        width: 47
-        height: 51
+        x: 320
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -940,10 +940,10 @@ TextureImporter:
       name: still-life-sheet_27
       rect:
         serializedVersion: 2
-        x: 71
-        y: 259
-        width: 47
-        height: 51
+        x: 384
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -962,10 +962,10 @@ TextureImporter:
       name: still-life-sheet_28
       rect:
         serializedVersion: 2
-        x: 135
-        y: 259
-        width: 47
-        height: 51
+        x: 448
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -984,10 +984,10 @@ TextureImporter:
       name: still-life-sheet_29
       rect:
         serializedVersion: 2
-        x: 199
-        y: 259
-        width: 47
-        height: 53
+        x: 640
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1006,10 +1006,10 @@ TextureImporter:
       name: still-life-sheet_30
       rect:
         serializedVersion: 2
-        x: 263
-        y: 259
-        width: 47
-        height: 53
+        x: 704
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1028,10 +1028,10 @@ TextureImporter:
       name: still-life-sheet_31
       rect:
         serializedVersion: 2
-        x: 327
-        y: 259
-        width: 47
-        height: 51
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1050,10 +1050,10 @@ TextureImporter:
       name: still-life-sheet_32
       rect:
         serializedVersion: 2
-        x: 417
-        y: 282
-        width: 8
-        height: 11
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1072,10 +1072,10 @@ TextureImporter:
       name: still-life-sheet_33
       rect:
         serializedVersion: 2
-        x: 425
-        y: 282
-        width: 8
-        height: 9
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1094,10 +1094,10 @@ TextureImporter:
       name: still-life-sheet_34
       rect:
         serializedVersion: 2
-        x: 433
-        y: 282
-        width: 12
-        height: 9
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1116,10 +1116,10 @@ TextureImporter:
       name: still-life-sheet_35
       rect:
         serializedVersion: 2
-        x: 445
-        y: 280
-        width: 8
-        height: 11
+        x: 256
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1138,10 +1138,10 @@ TextureImporter:
       name: still-life-sheet_36
       rect:
         serializedVersion: 2
-        x: 456
-        y: 282
-        width: 8
-        height: 11
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1160,10 +1160,10 @@ TextureImporter:
       name: still-life-sheet_37
       rect:
         serializedVersion: 2
-        x: 691
-        y: 283
-        width: 17
-        height: 11
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1182,10 +1182,10 @@ TextureImporter:
       name: still-life-sheet_38
       rect:
         serializedVersion: 2
-        x: 708
-        y: 283
-        width: 8
-        height: 9
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1204,10 +1204,10 @@ TextureImporter:
       name: still-life-sheet_39
       rect:
         serializedVersion: 2
-        x: 719
-        y: 283
-        width: 16
-        height: 11
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1226,10 +1226,10 @@ TextureImporter:
       name: still-life-sheet_40
       rect:
         serializedVersion: 2
-        x: 8
-        y: 195
-        width: 46
-        height: 51
+        x: 256
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1248,10 +1248,10 @@ TextureImporter:
       name: still-life-sheet_41
       rect:
         serializedVersion: 2
-        x: 72
-        y: 195
-        width: 46
-        height: 52
+        x: 320
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1270,10 +1270,10 @@ TextureImporter:
       name: still-life-sheet_42
       rect:
         serializedVersion: 2
-        x: 136
-        y: 195
-        width: 46
-        height: 52
+        x: 384
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1292,10 +1292,10 @@ TextureImporter:
       name: still-life-sheet_43
       rect:
         serializedVersion: 2
-        x: 200
-        y: 195
-        width: 46
-        height: 52
+        x: 448
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1314,10 +1314,10 @@ TextureImporter:
       name: still-life-sheet_44
       rect:
         serializedVersion: 2
-        x: 286
-        y: 219
-        width: 8
-        height: 11
+        x: 512
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1336,10 +1336,10 @@ TextureImporter:
       name: still-life-sheet_45
       rect:
         serializedVersion: 2
-        x: 294
-        y: 219
-        width: 8
-        height: 9
+        x: 576
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1358,10 +1358,10 @@ TextureImporter:
       name: still-life-sheet_46
       rect:
         serializedVersion: 2
-        x: 302
-        y: 219
-        width: 8
-        height: 9
+        x: 640
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1380,10 +1380,10 @@ TextureImporter:
       name: still-life-sheet_47
       rect:
         serializedVersion: 2
-        x: 313
-        y: 219
-        width: 8
-        height: 11
+        x: 704
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1402,10 +1402,10 @@ TextureImporter:
       name: still-life-sheet_48
       rect:
         serializedVersion: 2
-        x: 7
-        y: 131
-        width: 46
-        height: 51
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1424,10 +1424,10 @@ TextureImporter:
       name: still-life-sheet_49
       rect:
         serializedVersion: 2
-        x: 71
-        y: 131
-        width: 46
-        height: 51
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1446,10 +1446,10 @@ TextureImporter:
       name: still-life-sheet_50
       rect:
         serializedVersion: 2
-        x: 135
-        y: 131
-        width: 46
-        height: 51
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1468,10 +1468,10 @@ TextureImporter:
       name: still-life-sheet_51
       rect:
         serializedVersion: 2
-        x: 198
-        y: 131
-        width: 47
-        height: 51
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1490,10 +1490,10 @@ TextureImporter:
       name: still-life-sheet_52
       rect:
         serializedVersion: 2
-        x: 262
-        y: 131
-        width: 47
-        height: 51
+        x: 256
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1512,10 +1512,10 @@ TextureImporter:
       name: still-life-sheet_53
       rect:
         serializedVersion: 2
-        x: 326
-        y: 131
-        width: 47
-        height: 51
+        x: 320
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1534,10 +1534,10 @@ TextureImporter:
       name: still-life-sheet_54
       rect:
         serializedVersion: 2
-        x: 391
-        y: 131
-        width: 46
-        height: 51
+        x: 384
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1556,10 +1556,10 @@ TextureImporter:
       name: still-life-sheet_55
       rect:
         serializedVersion: 2
-        x: 455
-        y: 131
-        width: 46
-        height: 51
+        x: 448
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1578,10 +1578,10 @@ TextureImporter:
       name: still-life-sheet_56
       rect:
         serializedVersion: 2
-        x: 519
-        y: 131
-        width: 46
-        height: 51
+        x: 640
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1600,10 +1600,10 @@ TextureImporter:
       name: still-life-sheet_57
       rect:
         serializedVersion: 2
-        x: 584
-        y: 131
-        width: 46
-        height: 51
+        x: 704
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1622,10 +1622,10 @@ TextureImporter:
       name: still-life-sheet_58
       rect:
         serializedVersion: 2
-        x: 648
-        y: 131
-        width: 46
-        height: 51
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1644,10 +1644,10 @@ TextureImporter:
       name: still-life-sheet_59
       rect:
         serializedVersion: 2
-        x: 712
-        y: 131
-        width: 46
-        height: 51
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1666,10 +1666,10 @@ TextureImporter:
       name: still-life-sheet_60
       rect:
         serializedVersion: 2
-        x: 7
-        y: 67
-        width: 47
-        height: 51
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1688,10 +1688,10 @@ TextureImporter:
       name: still-life-sheet_61
       rect:
         serializedVersion: 2
-        x: 71
-        y: 67
-        width: 46
-        height: 51
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1710,10 +1710,10 @@ TextureImporter:
       name: still-life-sheet_62
       rect:
         serializedVersion: 2
-        x: 135
-        y: 67
-        width: 46
-        height: 51
+        x: 256
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1728,429 +1728,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_63
-      rect:
-        serializedVersion: 2
-        x: 199
-        y: 67
-        width: 47
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0d6bc90594e586470800000000000000
-      internalID: 8388057974955620048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_64
-      rect:
-        serializedVersion: 2
-        x: 263
-        y: 67
-        width: 47
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d0caa32e37dfea310800000000000000
-      internalID: 1418349606826847245
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_65
-      rect:
-        serializedVersion: 2
-        x: 327
-        y: 67
-        width: 46
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 77c83ce2aee102710800000000000000
-      internalID: 1666365853282831479
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_66
-      rect:
-        serializedVersion: 2
-        x: 418
-        y: 90
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2659543bc924677f0800000000000000
-      internalID: -615231058299480734
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_67
-      rect:
-        serializedVersion: 2
-        x: 426
-        y: 90
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 793ea3d7389915870800000000000000
-      internalID: 8669879547685692311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_68
-      rect:
-        serializedVersion: 2
-        x: 434
-        y: 90
-        width: 12
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97d3705fa4a048600800000000000000
-      internalID: 469511578208124281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_69
-      rect:
-        serializedVersion: 2
-        x: 446
-        y: 88
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 47bb33d779b1b9840800000000000000
-      internalID: 5231805729575517044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_70
-      rect:
-        serializedVersion: 2
-        x: 457
-        y: 90
-        width: 7
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8445881b615ee82b0800000000000000
-      internalID: -5580271002634922936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_71
-      rect:
-        serializedVersion: 2
-        x: 691
-        y: 92
-        width: 17
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9ed3c8742f198ec0800000000000000
-      internalID: -3564283388581650789
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_72
-      rect:
-        serializedVersion: 2
-        x: 708
-        y: 92
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b4dcca8fa61bbb190800000000000000
-      internalID: -7945562044568384181
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_73
-      rect:
-        serializedVersion: 2
-        x: 719
-        y: 92
-        width: 15
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9783d7329e8576ea0800000000000000
-      internalID: -5879633030162859911
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_74
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 3
-        width: 46
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 775b0b314ae36d860800000000000000
-      internalID: 7554294299386492279
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_75
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 3
-        width: 46
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a48f464547ff7dc0800000000000000
-      internalID: -3638918096987650905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_76
-      rect:
-        serializedVersion: 2
-        x: 134
-        y: 3
-        width: 47
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e22cff3fcc2d40f10800000000000000
-      internalID: 2235143092791394862
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_77
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 3
-        width: 48
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 449d1b3e205b82210800000000000000
-      internalID: 1308494715765774660
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_78
-      rect:
-        serializedVersion: 2
-        x: 285
-        y: 27
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bfdec6d12e89c91f0800000000000000
-      internalID: -1036785717278347781
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_79
-      rect:
-        serializedVersion: 2
-        x: 293
-        y: 27
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a646d2dad5de08e30800000000000000
-      internalID: 4503860613963670634
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_80
-      rect:
-        serializedVersion: 2
-        x: 301
-        y: 27
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 96c7da41aec350bb0800000000000000
-      internalID: -4970499637666546583
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: still-life-sheet_81
-      rect:
-        serializedVersion: 2
-        x: 312
-        y: 27
-        width: 7
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f636cdca278c59d0800000000000000
-      internalID: -2784201851711113487
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a7f0f0b255ce742b2a6d81603eae090f
     internalID: 0
     vertices: []
     indices: 
@@ -2159,7 +1741,70 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      still-life-sheet_0: -4330915439684707416
+      still-life-sheet_1: 6088347809968460779
+      still-life-sheet_10: -1283057979001651564
+      still-life-sheet_11: -1876693943560767758
+      still-life-sheet_12: -6900703728928351146
+      still-life-sheet_13: -9153058501437591959
+      still-life-sheet_14: -2325060040721501444
+      still-life-sheet_15: -2615180272092253716
+      still-life-sheet_16: -8448647692819890520
+      still-life-sheet_17: 839533948538645859
+      still-life-sheet_18: 1272851180419235895
+      still-life-sheet_19: -7591538167001063888
+      still-life-sheet_2: -382283150150926723
+      still-life-sheet_20: 3933831046368104275
+      still-life-sheet_21: 2197123409303625671
+      still-life-sheet_22: 2759341990868943441
+      still-life-sheet_23: -5517797793737881995
+      still-life-sheet_24: 1828134545511340640
+      still-life-sheet_25: 5373036413982780156
+      still-life-sheet_26: 923529341008766314
+      still-life-sheet_27: 5544833881698937534
+      still-life-sheet_28: 8971446173464511590
+      still-life-sheet_29: 7867554752523821543
+      still-life-sheet_3: -4048105602981108090
+      still-life-sheet_30: -1141928861366642787
+      still-life-sheet_31: 8704182611951433716
+      still-life-sheet_32: 5178514379823793014
+      still-life-sheet_33: 4397442336706739241
+      still-life-sheet_34: -8510372023599751517
+      still-life-sheet_35: 7739492598247558971
+      still-life-sheet_36: -826844751654646816
+      still-life-sheet_37: -5796471410798344349
+      still-life-sheet_38: -1244699594801247402
+      still-life-sheet_39: -7814278537487686952
+      still-life-sheet_4: -345336518587061191
+      still-life-sheet_40: -6257162313897488003
+      still-life-sheet_41: 7532138564774992759
+      still-life-sheet_42: -3782822446892736286
+      still-life-sheet_43: 8489805594688056261
+      still-life-sheet_44: -2284650665123694173
+      still-life-sheet_45: 4401477295876534473
+      still-life-sheet_46: 2196163878696766297
+      still-life-sheet_47: 3693724238718146139
+      still-life-sheet_48: 6289442513723187914
+      still-life-sheet_49: -4817465999966893544
+      still-life-sheet_5: -1440108918149914956
+      still-life-sheet_50: 5425110526413564368
+      still-life-sheet_51: -2460969547427514647
+      still-life-sheet_52: -2061428594689190559
+      still-life-sheet_53: 1538546956753670608
+      still-life-sheet_54: -5069888796670114161
+      still-life-sheet_55: 3644337816329762542
+      still-life-sheet_56: -3789723724840739920
+      still-life-sheet_57: 6421851204217854141
+      still-life-sheet_58: 4659454089133695129
+      still-life-sheet_59: -5241902055612975792
+      still-life-sheet_6: 9142461420511643383
+      still-life-sheet_60: 3556996479860124835
+      still-life-sheet_61: 7914256033103157233
+      still-life-sheet_62: 6109970052507258403
+      still-life-sheet_7: -1578521755163471601
+      still-life-sheet_8: -3270656545557378299
+      still-life-sheet_9: 2261899143018842817
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

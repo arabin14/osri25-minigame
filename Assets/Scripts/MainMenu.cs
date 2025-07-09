@@ -8,9 +8,24 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadSceneAsync("SelectArtwork");
     }
 
-    public void StartRun()
+    public void StillLifeRun()
     {
-        SceneManager.LoadSceneAsync("GalleryRun");
+        SceneManager.LoadSceneAsync("StillLifeRun");
+    }
+
+    public void SelfPortraitRun()
+    {
+        SceneManager.LoadSceneAsync("SelfPortraitRun");
+    }
+
+    public void ScholarsRockRun()
+    {
+        SceneManager.LoadSceneAsync("ScholarsRockRun");
+    }
+
+    public void GiantPlugRun()
+    {
+        SceneManager.LoadSceneAsync("GiantPlugRun");
     }
 
     public void QuitGame()
