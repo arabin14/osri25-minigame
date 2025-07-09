@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 public class GiantPlugMovement : MonoBehaviour
 {
@@ -29,12 +30,15 @@ public class GiantPlugMovement : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
         }
 
-        if (!IsGrounded()) 
-        {         
-            animator.SetBool("IsJumping", false);
-        }
-
         Flip();
+    }
+
+    public UnityEvent OnLand;
+
+    // method used to know when the stop showing jump animation
+    public void OnLanding() 
+    {
+        animator.SetBool("IsJumping", false);
     }
 
     private bool IsGrounded() 
