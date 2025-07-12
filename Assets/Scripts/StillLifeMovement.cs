@@ -6,6 +6,7 @@ public class StillLifeMovement : MonoBehaviour
     private float speed = 12f;
     private float jumpingPower = 16f;
     private bool isFacingRight = true;
+    public bool grounded = false;
 
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
@@ -14,25 +15,25 @@ public class StillLifeMovement : MonoBehaviour
     public Animator animator;
 
 
-
     // Update is called once per frame
     void Update()
     {
         horizontal = Input.GetAxisRaw("Horizontal");
+        grounded = IsGrounded();
 
-        // play run animation
         animator.SetFloat("Speed", Mathf.Abs(horizontal * speed));
 
-        // trying to figure out asymmetrical animations based on direction
-        if (isFacingRight)
+        // asymmetrical animations based on direction
+         if (!isFacingRight)
         {
-            animator.SetInteger("Direction", 1);
+            animator.SetBool("Direction", false);
         } else {
-            animator.SetInteger("Direction", 0);
+            animator.SetBool("Direction", true);
         }
 
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
+            animator.SetBool("IsJumping", true);
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
         }
 
@@ -41,6 +42,7 @@ public class StillLifeMovement : MonoBehaviour
 
     private bool IsGrounded() 
     {
+        animator.SetBool("IsJumping", false);
         return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
     }
 

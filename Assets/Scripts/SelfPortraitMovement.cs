@@ -39,11 +39,6 @@ public class SelfPortraitMovement : MonoBehaviour
         Flip();
     }
 
-    /*public void OnLanding() 
-    {
-        animator.SetBool("IsJumping", false);
-    }*/
-
     private bool IsGrounded() 
     {
         animator.SetBool("IsJumping", false);
