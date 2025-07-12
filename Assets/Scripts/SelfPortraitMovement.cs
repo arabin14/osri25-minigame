@@ -6,6 +6,7 @@ public class SelfPortraitMovement : MonoBehaviour
     private float speed = 12f;
     private float jumpingPower = 16f;
     private bool isFacingRight = true;
+    public bool grounded = false;
 
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
@@ -18,29 +19,34 @@ public class SelfPortraitMovement : MonoBehaviour
     void Update()
     {
         horizontal = Input.GetAxisRaw("Horizontal");
+        grounded = IsGrounded();
 
-        // play run animation
         animator.SetFloat("Speed", Mathf.Abs(horizontal * speed));
 
-        // need to figure out asymmetrical animation
-        // this does not do what i thought it would do
-        if (isFacingRight)
+        if (!isFacingRight)
         {
-            animator.SetInteger("Direction", 1);
+            animator.SetBool("Direction", false);
         } else {
-            animator.SetInteger("Direction", 0);
+            animator.SetBool("Direction", true);
         }
 
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
+            animator.SetBool("IsJumping", true);
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
         }
 
         Flip();
     }
 
+    /*public void OnLanding() 
+    {
+        animator.SetBool("IsJumping", false);
+    }*/
+
     private bool IsGrounded() 
     {
+        animator.SetBool("IsJumping", false);
         return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
     }
 

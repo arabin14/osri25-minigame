@@ -2719,7 +2719,7 @@ Transform:
   m_GameObject: {fileID: 493442671}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.52, y: -0.17999995, z: -10}
+  m_LocalPosition: {x: 0.52, y: 0.05, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2962,7 +2962,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.52001333, y: 0.012889266, z: -10}
+  m_LocalPosition: {x: 0.5200219, y: 0.012886643, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10136,7 +10136,7 @@ Transform:
   m_GameObject: {fileID: 882292851}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.52, y: -0.17999995, z: 0}
+  m_LocalPosition: {x: 0.52, y: 0.05, z: 0}
   m_LocalScale: {x: 4.5, y: 4.5, z: 4.5}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -10155,6 +10155,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa8c254a9f0e64c31873d5899c3bba55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  grounded: 0
   rb: {fileID: 882292856}
   groundCheck: {fileID: 2018356651}
   groundLayer:
@@ -11106,7 +11107,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!61 &999676887
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12394,6 +12395,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa8c254a9f0e64c31873d5899c3bba55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  grounded: 0
   rb: {fileID: 1191075876}
   groundCheck: {fileID: 184791121}
   groundLayer:
