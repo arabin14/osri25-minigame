@@ -957,7 +957,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &489213479
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1010,8 +1010,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 651387871}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.89401144}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1088,8 +1088,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000030517578, y: -288.60403}
-  m_SizeDelta: {x: 0, y: 577.208}
+  m_AnchoredPosition: {x: 0.000030517578, y: -251.25397}
+  m_SizeDelta: {x: 0, y: 502.508}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &529405875
 MonoBehaviour:
@@ -1111,17 +1111,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Title: Scholar's Rock\n\n\nArtist/Maker: Chinese\n\n\nDate: 19th\u201320th
-    century\n\n\nMedium: Limestone with wooden stand\n\n\nDimensions: Overall (with
-    base): 25 \xD7 10 1/2 \xD7 8 1/2 in. (63.5 \xD7 26.7 \xD7 21.6 cm)\nOverall (without
-    base): 21 \xD7 10 1/2 \xD7 8 1/2 in. (53.3 \xD7 26.7 \xD7 21.6 cm)\n\n\nCredit
-    Line: Oberlin Friends of Art Fund\n\n\nObject Number: 2017.16A-B\n\n\nStatus:
-    Not on view\n\n\nMore Information: For millennia, unusual rocks have been popular
-    in China for aesthetic, metaphysical, and symbolic reasons. Beyond the unique
-    beauty of the different types of rocks placed in the gardens or studios of Chinese
-    scholars and officials, such stones were seen as a kind of domesticated or educated
-    form of nature. In the microcosm of a garden, the experience of viewing them
-    was equivalent to seeing a rock formation, or even a mountain, in the wild.\n\n\nParticularly
+  m_text: "Title: Scholar's Rock\n\nArtist/Maker: Chinese\n\nDate: 19th\u201320th
+    century\n\nMedium: Limestone with wooden stand\n\nDimensions: Overall (with base):
+    25 \xD7 10 1/2 \xD7 8 1/2 in. (63.5 \xD7 26.7 \xD7 21.6 cm)\nOverall (without
+    base): 21 \xD7 10 1/2 \xD7 8 1/2 in. (53.3 \xD7 26.7 \xD7 21.6 cm)\n\nCredit
+    Line: Oberlin Friends of Art Fund\n\nObject Number: 2017.16A-B\n\nStatus: Not
+    on view\n\nMore Information: For millennia, unusual rocks have been popular in
+    China for aesthetic, metaphysical, and symbolic reasons. Beyond the unique beauty
+    of the different types of rocks placed in the gardens or studios of Chinese scholars
+    and officials, such stones were seen as a kind of domesticated or educated form
+    of nature. In the microcosm of a garden, the experience of viewing them was equivalent
+    to seeing a rock formation, or even a mountain, in the wild.\n\nParticularly
     prized, however, are rocks of this type, top-heavy and punctuated with a network
     of holes and indentations. The overall shape is reminiscent of P\xE9ngl\xE1i,
     one of the legendary Islands of the Immortals, described as a mountain that rises
@@ -1131,8 +1131,8 @@ MonoBehaviour:
     rock, a scholar could appreciate its distinctive visual qualities, connect with
     nature, and escape by visualizing these magical spaces."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
-  m_sharedMaterial: {fileID: -6145034927696171910, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d2f7060a93d554c5c8d9027568d40cd7, type: 2}
+  m_sharedMaterial: {fileID: -887227646967793792, guid: d2f7060a93d554c5c8d9027568d40cd7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1912,8 +1912,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1697564746}
   m_HandleRect: {fileID: 1697564745}
   m_Direction: 2
-  m_Value: 1
-  m_Size: 0.2623163
+  m_Value: 0.9999999
+  m_Size: 0
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2039,7 +2039,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1347188540}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.23372918
+  m_Size: 0.24791239
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2117,8 +2117,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000030517578, y: -336.45416}
-  m_SizeDelta: {x: 0, y: 672.9084}
+  m_AnchoredPosition: {x: 0.000030517578, y: -311.33417}
+  m_SizeDelta: {x: 0, y: 622.6684}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &725285430
 MonoBehaviour:
@@ -2154,11 +2154,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Title: Self-Portrait with Straw Hat and Palette\n\n\nArtist/Maker: Marie-Elisabeth
-    Lemoine (French, 1761\u20131811)\n\n\nDate: ca. 1795\n\n\nMedium: Oil on canvas\n\n\nDimensions:
+  m_text: "Title: Self-Portrait with Straw Hat and Palette\n\nArtist/Maker: Marie-Elisabeth
+    Lemoine (French, 1761\u20131811)\n\nDate: ca. 1795\n\nMedium: Oil on canvas\n\nDimensions:
     Overall: 21 \xD7 17 5/16 in. (53.3 \xD7 44 cm)\nFrame: 27 1/8 \xD7 23 1/16 \xD7
-    3 9/16 in. (68.9 \xD7 58.5 \xD7 9 cm)\n\n\nCredit Line: R. T. Miller Jr. Fund\n\n\nObject
-    Number: 2022.23\n\n\nStatus: On view\n\n\nMore Information: The work of Marie-Elisabeth
+    3 9/16 in. (68.9 \xD7 58.5 \xD7 9 cm)\n\nCredit Line: R. T. Miller Jr. Fund\n\nObject
+    Number: 2022.23\n\nStatus: On view\n\nMore Information: The work of Marie-Elisabeth
     Lemoine, along with that of her three sisters and female cousin, is only recently
     becoming better known. She was among the students of Elisabeth Vig\xE9e Le Brun
     (1755\u2013 1842), perhaps the best-known female artist at the end of the 18th
@@ -2166,18 +2166,18 @@ MonoBehaviour:
     still woefully fewer than men. Here she depicts herself in front of her canvas,
     palette and brushes in hand. Her style of dress, straw hat, and gold hoop earrings\u2014referred
     to as \u201C\xE0 la cr\xE9ole,\u201D a shape seen as emanating from European
-    colonies\u2014 date the work to the early years of the French Revolution.\n\n\nTables
+    colonies\u2014 date the work to the early years of the French Revolution.\n\nTables
     like the one here would have held pastels and artistic materials; the top level
     would likely have been used for items including oil paint, stored at the time
     in pig bladders, before metal tubes were invented around 1841. The precise meaning
     of her gesture towards the table is unclear\u2014but she certainly draws our
-    attention, proudly, to her tools.\n\n\nThis is just the third oil painting by
-    a European woman made prior to 1912 in the AMAM, joining Sofonisba Anguissola\u2019s
+    attention, proudly, to her tools.\n\nThis is just the third oil painting by a
+    European woman made prior to 1912 in the AMAM, joining Sofonisba Anguissola\u2019s
     Double Portrait of a Boy and Girl of the Attavanti Family and Mar\xEDa Josefa
     S\xE1nchez\u2019s The Crucified Christ in the adjoining gallery."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
-  m_sharedMaterial: {fileID: -6145034927696171910, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d2f7060a93d554c5c8d9027568d40cd7, type: 2}
+  m_sharedMaterial: {fileID: -887227646967793792, guid: d2f7060a93d554c5c8d9027568d40cd7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2324,9 +2324,9 @@ RectTransform:
   m_Father: {fileID: 205249148}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -12, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &835424785
 MonoBehaviour:
@@ -2493,8 +2493,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000030517578, y: -0.000015258789}
-  m_SizeDelta: {x: 0, y: 356.25}
+  m_AnchoredPosition: {x: 0.000030517578, y: -171.27997}
+  m_SizeDelta: {x: 0, y: 342.56}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &877750569
 MonoBehaviour:
@@ -2530,22 +2530,21 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Title: Still Life\n\n\nArtist/Maker: Jan Davidsz de Heem (Dutch, 1606\u20131683/4)\n\n\nDate:
-    ca. 1645\n\n\nMedium: Oil on canvas\n\n\nDimensions: Overall: 17 3/4 \xD7 24
-    1/16 in. (45.1 \xD7 61.1 cm)\nFrame: 25 3/4 \xD7 32 \xD7 2 5/8 in. (65.4 \xD7
-    81.3 \xD7 6.7 cm)\n\n\nCredit Line: Mrs. F. F. Prentiss Fund\n\n\nObject Number:
-    1954.21\n\n\nStatus: On view\n\n\nMore Information: In the 1600s, the Dutch Republic
-    enjoyed unprecedented prosperity, largely thanks to its overseas trading and
-    colonial ventures. As luxurious and exotic commodities streamed into Amsterdam
-    from around the world, a new market developed for still-life paintings that celebrated
-    the material wealth of this emerging global empire.\n\n\nMany of the goods shown
-    here traveled substantial distances to be united in this scene. Lemons, for example,
-    were transported across the Alps from the Mediterranean. Porcelain was imported
-    from China, although the bowl pictured here is likely a Dutch imitation of Chinese
-    porcelain."
+  m_text: "Title: Still Life\n\nArtist/Maker: Jan Davidsz de Heem (Dutch, 1606\u20131683/4)\n\nDate:
+    ca. 1645\n\nMedium: Oil on canvas\n\nDimensions: Overall: 17 3/4 \xD7 24 1/16
+    in. (45.1 \xD7 61.1 cm)\nFrame: 25 3/4 \xD7 32 \xD7 2 5/8 in. (65.4 \xD7 81.3
+    \xD7 6.7 cm)\n\nCredit Line: Mrs. F. F. Prentiss Fund\n\nObject Number: 1954.21\n\nStatus:
+    On view\n\nMore Information: In the 1600s, the Dutch Republic enjoyed unprecedented
+    prosperity, largely thanks to its overseas trading and colonial ventures. As
+    luxurious and exotic commodities streamed into Amsterdam from around the world,
+    a new market developed for still-life paintings that celebrated the material
+    wealth of this emerging global empire.\n\nMany of the goods shown here traveled
+    substantial distances to be united in this scene. Lemons, for example, were transported
+    across the Alps from the Mediterranean. Porcelain was imported from China, although
+    the bowl pictured here is likely a Dutch imitation of Chinese porcelain."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
-  m_sharedMaterial: {fileID: -6145034927696171910, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d2f7060a93d554c5c8d9027568d40cd7, type: 2}
+  m_sharedMaterial: {fileID: -887227646967793792, guid: d2f7060a93d554c5c8d9027568d40cd7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2979,8 +2978,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 519846402}
   m_HandleRect: {fileID: 519846401}
   m_Direction: 2
-  m_Value: 1
-  m_Size: 0.10598858
+  m_Value: 0.99999994
+  m_Size: 0.099972576
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3328,8 +3327,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2021049478}
   m_HandleRect: {fileID: 2021049477}
   m_Direction: 2
-  m_Value: 0.5
-  m_Size: 0.37636763
+  m_Value: 1
+  m_Size: 0.3699691
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3673,8 +3672,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000030517578, y: -816.6041}
-  m_SizeDelta: {x: 0, y: 1633.2084}
+  m_AnchoredPosition: {x: 0.000030517578, y: -709.3541}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1310232056
 MonoBehaviour:
@@ -3710,58 +3709,58 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Title: Giant Three-Way Plug (Cube Tap)\n\n\nArtist/Maker: Claes Oldenburg
-    (American, born in Sweden, 1929\u20132022)\n\n\nDate: 1970\n\n\nMedium: Cor-Ten
-    steel and polished bronze\n\n\nDimensions: Overall: 58 1/4 \xD7 78 1/2 \xD7 119
-    in., 3500 lb. (148 \xD7 199.4 \xD7 302.3 cm, 1587.59 kg)\n\n\nCredit Line: Fund
-    for Contemporary Art\n\n\nObject Number: 1970.38\n\n\nStatus: On view\n\n\nMore
-    Information: Claes Oldenburg's first commissioned permanent outdoor sculpture,
-    Giant Three-Way Plug, comprises a 3.5-ton Cor-Ten steel body with polished bronze
-    prongs. Fabricated in an edition of three at the Lippincott factory in North
-    Haven, Connecticut, the subject was chosen from several different models (including
-    a soft monumental ice pack) the artist presented after a series of visits to
-    Oberlin. The sculpture was commissioned by the AMAM in January 1969, installed
-    on August 10, 1970, and dedicated on September 14 of that year. The two other
-    editioned examples were executed later and are in the collections of the Saint
-    Louis Art Museum and the Philadelphia Museum of Art.\n\n\nIn January 1963, Oldenburg
-    participated -along with Joan Mitchell and Robert Rauschenberg-in the Three Young
-    Americans exhibition at the museum. Ellen Johnson remarked in the 1963 AMAM Bulletin
-    that Oldenburg's current work was more sculpture than painting, with a new interest
-    in composing volumes. This exhibition and Oberlin's ongoing friendship with Oldenburg
-    forged the way for the museum to work with the artist again in the late 1960s
-    to commission a monumental sculpture. Plug developed from a concept that Oldenburg
-    had already produced in different versions, notably hard and soft plugs suspended
-    from above, with prongs pointing down. Much larger in scale, placed directly
-    on the ground, and partly buried, Oberlin's Plug continues to engage powerfully
-    the environment that surrounds it. Johnson described Oberlin as a place where
-    people are intrigued and engaged with the sculpture and \"where everyone accepts
-    that it is a serious work of art, which began when a major sculptor looked at
-    a little twenty-five cent plug that the rest of us take for granted.\"\n\n\nAmong
-    the multiple readings of the sculpture is the artist's suggestion that it could
-    serve as a monument to Thomas Edison, who was born near Oberlin in Milan, Ohio.
-    Oldenburg also remarked that if Plug were installed with the prongs embedded
-    in the ground, the idea of contact, or plugging in, would have been lost.\n\n\nIn
-    1970, during a visit to finalize the site, Oldenburg said, \"there are plugs
-    lying around in drawers all over the world; they are nothing until contact is
-    made.\" For the 1970 installation, the bronze prongs pointed west toward Tappan
-    Square, the large, treelined park directly across from the museum, effectively
-    connecting the visual arts with the rest of the campus and the town of Oberlin.\n\n\nThe
-    artist's wit and whimsy came alive again for Oberlin when the Venturi, Rauch,
-    and Scott Brown addition to the AMAM and Art Building was completed in 1977.
-    The addition was in its early planning stages when Oldenburg's Plug was first
-    sited, and he knew the sculpture would eventually be relocated. Oldenburg chose
-    a new site in 1976, locating the Plug on a downward slope on the museum's southwest
-    lawn, with the bronze prongs oriented toward the new art building. Oldenburg
-    also responded to the new building in visual form with Alternate Proposal (AMAM
-    1979.29) , a design for the museum addition in the shape of mammoth three-way
-    plugs linked together to form connected pods.\n\n\nToday, thanks to Ellen Johnson's
-    1998 bequest and gifts from many generous donors, there are thirty-eight sculptures,
-    drawings, and prints by Oldenburg in the museum's collection. An outstanding
-    recent gift, Giant Saw-Soft Version (Saw Flag), from 1966, was presented to the
-    museum in 2003 by Claes Oldenburg and Coosje van Bruggen in honor of Ellen Johnson."
+  m_text: "Title: Giant Three-Way Plug (Cube Tap)\n\nArtist/Maker: Claes Oldenburg
+    (American, born in Sweden, 1929\u20132022)\n\nDate: 1970\n\nMedium: Cor-Ten steel
+    and polished bronze\n\nDimensions: Overall: 58 1/4 \xD7 78 1/2 \xD7 119 in.,
+    3500 lb. (148 \xD7 199.4 \xD7 302.3 cm, 1587.59 kg)\n\nCredit Line: Fund for
+    Contemporary Art\n\nObject Number: 1970.38\n\nStatus: On view\n\nMore Information:
+    Claes Oldenburg's first commissioned permanent outdoor sculpture, Giant Three-Way
+    Plug, comprises a 3.5-ton Cor-Ten steel body with polished bronze prongs. Fabricated
+    in an edition of three at the Lippincott factory in North Haven, Connecticut,
+    the subject was chosen from several different models (including a soft monumental
+    ice pack) the artist presented after a series of visits to Oberlin. The sculpture
+    was commissioned by the AMAM in January 1969, installed on August 10, 1970, and
+    dedicated on September 14 of that year. The two other editioned examples were
+    executed later and are in the collections of the Saint Louis Art Museum and the
+    Philadelphia Museum of Art.\n\nIn January 1963, Oldenburg participated -along
+    with Joan Mitchell and Robert Rauschenberg-in the Three Young Americans exhibition
+    at the museum. Ellen Johnson remarked in the 1963 AMAM Bulletin that Oldenburg's
+    current work was more sculpture than painting, with a new interest in composing
+    volumes. This exhibition and Oberlin's ongoing friendship with Oldenburg forged
+    the way for the museum to work with the artist again in the late 1960s to commission
+    a monumental sculpture. Plug developed from a concept that Oldenburg had already
+    produced in different versions, notably hard and soft plugs suspended from above,
+    with prongs pointing down. Much larger in scale, placed directly on the ground,
+    and partly buried, Oberlin's Plug continues to engage powerfully the environment
+    that surrounds it. Johnson described Oberlin as a place where people are intrigued
+    and engaged with the sculpture and \"where everyone accepts that it is a serious
+    work of art, which began when a major sculptor looked at a little twenty-five
+    cent plug that the rest of us take for granted.\"\n\nAmong the multiple readings
+    of the sculpture is the artist's suggestion that it could serve as a monument
+    to Thomas Edison, who was born near Oberlin in Milan, Ohio. Oldenburg also remarked
+    that if Plug were installed with the prongs embedded in the ground, the idea
+    of contact, or plugging in, would have been lost.\n\nIn 1970, during a visit
+    to finalize the site, Oldenburg said, \"there are plugs lying around in drawers
+    all over the world; they are nothing until contact is made.\" For the 1970 installation,
+    the bronze prongs pointed west toward Tappan Square, the large, treelined park
+    directly across from the museum, effectively connecting the visual arts with
+    the rest of the campus and the town of Oberlin.\n\nThe artist's wit and whimsy
+    came alive again for Oberlin when the Venturi, Rauch, and Scott Brown addition
+    to the AMAM and Art Building was completed in 1977. The addition was in its early
+    planning stages when Oldenburg's Plug was first sited, and he knew the sculpture
+    would eventually be relocated. Oldenburg chose a new site in 1976, locating the
+    Plug on a downward slope on the museum's southwest lawn, with the bronze prongs
+    oriented toward the new art building. Oldenburg also responded to the new building
+    in visual form with Alternate Proposal (AMAM 1979.29) , a design for the museum
+    addition in the shape of mammoth three-way plugs linked together to form connected
+    pods.\n\nToday, thanks to Ellen Johnson's 1998 bequest and gifts from many generous
+    donors, there are thirty-eight sculptures, drawings, and prints by Oldenburg
+    in the museum's collection. An outstanding recent gift, Giant Saw-Soft Version
+    (Saw Flag), from 1966, was presented to the museum in 2003 by Claes Oldenburg
+    and Coosje van Bruggen in honor of Ellen Johnson."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
-  m_sharedMaterial: {fileID: -6145034927696171910, guid: 879627c4cf72a4b2b90514883263e806, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d2f7060a93d554c5c8d9027568d40cd7, type: 2}
+  m_sharedMaterial: {fileID: -887227646967793792, guid: d2f7060a93d554c5c8d9027568d40cd7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4121,7 +4120,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1870121942}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.7662708}
+  m_AnchorMin: {x: 0, y: 0.7520876}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -4179,7 +4178,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1365782922
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4599,7 +4598,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 435726702}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.7376837}
+  m_AnchorMin: {x: 0, y: 0.99999976}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -5391,8 +5390,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 658250560}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.3118162}
-  m_AnchorMax: {x: 1, y: 0.6881839}
+  m_AnchorMin: {x: 0, y: 0.6300309}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}

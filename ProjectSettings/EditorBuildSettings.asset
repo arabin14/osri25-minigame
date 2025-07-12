@@ -12,20 +12,29 @@ EditorBuildSettings:
     path: Assets/Scenes/SelectArtwork.unity
     guid: ca9148c08264e4bebb1f3236438b425c
   - enabled: 1
-    path: Assets/Scenes/SelfPortraitRun.unity
+    path: Assets/Scenes/Runs/SelfPortraitRun.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/StillLifeWin.unity
+    path: Assets/Scenes/Wins/StillLifeWin.unity
     guid: 733987d38116347d582895c40549df8b
   - enabled: 1
-    path: Assets/Scenes/StillLifeRun.unity
+    path: Assets/Scenes/Runs/StillLifeRun.unity
     guid: 585cd025066644a99889406600c14ca9
   - enabled: 1
-    path: Assets/Scenes/ScholarsRockRun.unity
+    path: Assets/Scenes/Runs/ScholarsRockRun.unity
     guid: 7a1f2562615474e5d8bda93dda5eedfa
   - enabled: 1
-    path: Assets/Scenes/GiantPlugRun.unity
+    path: Assets/Scenes/Runs/GiantPlugRun.unity
     guid: 03478bdc6a825430aa08e9217a8c7d03
+  - enabled: 1
+    path: Assets/Scenes/Wins/SelfPortraitWin.unity
+    guid: 36d3cda36e9244720b02df6c7efdfc28
+  - enabled: 1
+    path: Assets/Scenes/Wins/GiantPlugWin.unity
+    guid: 49fd01085b66041508bcd9e86f1de53f
+  - enabled: 1
+    path: Assets/Scenes/Wins/ScholarsRockWin.unity
+    guid: ce234e29b55694ff988a707b88865477
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
