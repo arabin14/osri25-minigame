@@ -6,6 +6,7 @@ public class ScholarsRockMovement : MonoBehaviour
     private float speed = 12f;
     private float jumpingPower = 16f;
     private bool isFacingRight = true;
+    public bool grounded = false;
 
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
@@ -14,17 +15,21 @@ public class ScholarsRockMovement : MonoBehaviour
     public Animator animator;
 
 
-
     // Update is called once per frame
     void Update()
     {
         horizontal = Input.GetAxisRaw("Horizontal");
+        grounded = IsGrounded();
 
         // play run animation
         animator.SetFloat("Speed", Mathf.Abs(horizontal * speed));
 
+        // don't need isFacing check because there are no asymmetrical animations 
+
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
+            // play jump animation 
+            animator.SetBool("IsJumping", true);
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
         }
 
@@ -33,6 +38,10 @@ public class ScholarsRockMovement : MonoBehaviour
 
     private bool IsGrounded() 
     {
+        // stop playing jump animation 
+        animator.SetBool("IsJumping", false);
+
+        // check if player is touching the ground
         return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
     }
 

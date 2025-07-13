@@ -21,10 +21,11 @@ public class StillLifeMovement : MonoBehaviour
         horizontal = Input.GetAxisRaw("Horizontal");
         grounded = IsGrounded();
 
+        // play run animation 
         animator.SetFloat("Speed", Mathf.Abs(horizontal * speed));
 
         // asymmetrical animations based on direction
-         if (!isFacingRight)
+        if (!isFacingRight)
         {
             animator.SetBool("Direction", false);
         } else {
@@ -33,6 +34,7 @@ public class StillLifeMovement : MonoBehaviour
 
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
+            // play jump animation 
             animator.SetBool("IsJumping", true);
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
         }
@@ -42,7 +44,10 @@ public class StillLifeMovement : MonoBehaviour
 
     private bool IsGrounded() 
     {
+        // stop playing jump animation 
         animator.SetBool("IsJumping", false);
+
+        // check if player is touching the ground 
         return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
     }
 

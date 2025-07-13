@@ -7,6 +7,7 @@ public class GiantPlugMovement : MonoBehaviour
     private float speed = 12f;
     private float jumpingPower = 16f;
     private bool isFacingRight = true;
+    public bool grounded = false;
 
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
@@ -18,9 +19,12 @@ public class GiantPlugMovement : MonoBehaviour
     void Update()
     {
         horizontal = Input.GetAxisRaw("Horizontal");
+        grounded = IsGrounded();
 
         // play run animation
         animator.SetFloat("Speed", Mathf.Abs(horizontal * speed));
+
+        // don't have isFacing check because no asymmetrical animations
 
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
@@ -33,16 +37,12 @@ public class GiantPlugMovement : MonoBehaviour
         Flip();
     }
 
-    public UnityEvent OnLand;
-
-    // method used to know when the stop showing jump animation
-    public void OnLanding() 
-    {
-        animator.SetBool("IsJumping", false);
-    }
-
     private bool IsGrounded() 
     {
+        // stop playing jump animation
+        animator.SetBool("IsJumping", false);
+
+        // check if player is touching the ground 
         return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
     }
 
