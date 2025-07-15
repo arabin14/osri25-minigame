@@ -3,13 +3,17 @@ using UnityEngine;
 public class SecurityGuard : MonoBehaviour
 {
     public Transform player;
-    [SerializeField] private float chaseSpeed = 8f;
-    [SerializeField] private float jumpForce = 16f;
+    private float chaseSpeed = 8f;
+    private float jumpForce = 16f;
     public LayerMask groundLayer;
 
     private Rigidbody2D rb;
     private bool isGrounded;
     private bool shouldJump;
+
+    // couldn't figure out animations in time, using placeholder for now
+    // for animations   
+    //public Animator animator;
 
     // for respawn mechanic
     public GameObject playerRef;
@@ -31,8 +35,15 @@ public class SecurityGuard : MonoBehaviour
         // player direction
         float direction = Mathf.Sign(player.position.x - transform.position.x);
 
+        // play begin and run animations
+        //animator.SetBool("IsRunning", true);
+
         if (isGrounded)
         {
+            // stop playing jump animation 
+            //animator.SetBool("IsJumping", false);
+           // animator.SetBool("IsRunning", true);
+
             rb.linearVelocity = new Vector2(direction * chaseSpeed, rb.linearVelocity.y);
 
             // check if obstacle is ahead
@@ -46,10 +57,15 @@ public class SecurityGuard : MonoBehaviour
     }
 
     private void FixedUpdate() 
-    {
+    {   
         if (isGrounded && shouldJump)
         {
             shouldJump = false;
+
+            // play jump animation
+            //animator.SetBool("IsRunning", false);
+            //animator.SetBool("IsJumping", true);
+
             Vector2 direction = (player.position - transform.position).normalized;
 
             Vector2 jumpDirection = direction * jumpForce;

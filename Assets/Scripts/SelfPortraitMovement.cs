@@ -6,12 +6,13 @@ public class SelfPortraitMovement : MonoBehaviour
     private float speed = 12f;
     private float jumpingPower = 16f;
     private bool isFacingRight = true;
-    public bool grounded = false;
 
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
 
+    // for animations
+    public bool grounded = false;
     public Animator animator;
 
 

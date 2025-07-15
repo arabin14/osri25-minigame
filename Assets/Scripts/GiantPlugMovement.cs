@@ -4,16 +4,17 @@ using UnityEngine.Events;
 public class GiantPlugMovement : MonoBehaviour
 {
     private float horizontal;
-    private float speed = 12f;
+    private float speed = 9f;
     private float jumpingPower = 16f;
     private bool isFacingRight = true;
-    public bool grounded = false;
 
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
 
+    // for animations
     public Animator animator;
+    public bool grounded = false;
 
     // Update is called once per frame
     void Update()

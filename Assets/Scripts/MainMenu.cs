@@ -28,6 +28,11 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadSceneAsync("GiantPlugRun");
     }
 
+    public void FlyWhiskRun()
+    {
+        SceneManager.LoadSceneAsync("FlyWhiskRun");
+    }
+
     public void QuitGame()
     {
         Application.Quit();
