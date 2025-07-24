@@ -37,4 +37,10 @@ public class MainMenu : MonoBehaviour
     {
         Application.Quit();
     }
+
+
+    // go back to main menu after win scenes
+    public void BackToMain(){
+       Invoke("MainMenu", 8.0f);
+    }
 }

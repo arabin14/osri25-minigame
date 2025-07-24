@@ -2719,7 +2719,7 @@ Transform:
   m_GameObject: {fileID: 493442671}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.52, y: 0.05, z: -10}
+  m_LocalPosition: {x: 0.52, y: -0.02, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2962,7 +2962,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.5200219, y: 0.012886643, z: -10}
+  m_LocalPosition: {x: 0.5200181, y: 0.012889981, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10136,7 +10136,7 @@ Transform:
   m_GameObject: {fileID: 882292851}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.52, y: 0.05, z: 0}
+  m_LocalPosition: {x: 0.52, y: -0.02, z: 0}
   m_LocalScale: {x: 4.5, y: 4.5, z: 4.5}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -11237,8 +11237,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 882292853}
-  chaseSpeed: 8
-  jumpForce: 16
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
