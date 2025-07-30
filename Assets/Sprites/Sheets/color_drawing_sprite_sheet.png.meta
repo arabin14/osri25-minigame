@@ -429,6 +429,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2909,7 +2922,119 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      color_drawing_sprite_sheet_0: -1941991640311121181
+      color_drawing_sprite_sheet_1: -4290343068243686180
+      color_drawing_sprite_sheet_10: -1486870218534070400
+      color_drawing_sprite_sheet_100: -4577832084181162625
+      color_drawing_sprite_sheet_101: -2393164006534135278
+      color_drawing_sprite_sheet_102: -893667002513694001
+      color_drawing_sprite_sheet_103: 831791671306977297
+      color_drawing_sprite_sheet_104: -8939122564897684609
+      color_drawing_sprite_sheet_105: -3697347207621349619
+      color_drawing_sprite_sheet_106: -4371596063654806690
+      color_drawing_sprite_sheet_107: 830011436214432528
+      color_drawing_sprite_sheet_108: 2863521951266210476
+      color_drawing_sprite_sheet_109: -7454730264799656052
+      color_drawing_sprite_sheet_11: -2964362091471648241
+      color_drawing_sprite_sheet_110: -5959028002300100653
+      color_drawing_sprite_sheet_111: -1882885645403236801
+      color_drawing_sprite_sheet_12: -2951236817058420435
+      color_drawing_sprite_sheet_13: 429810567098395041
+      color_drawing_sprite_sheet_14: -8287264422081047547
+      color_drawing_sprite_sheet_15: -7895198075862890639
+      color_drawing_sprite_sheet_16: -9553718848539121
+      color_drawing_sprite_sheet_17: 8859796400871683614
+      color_drawing_sprite_sheet_18: 2192918463926818610
+      color_drawing_sprite_sheet_19: 322106895544383205
+      color_drawing_sprite_sheet_2: 6184260883792828468
+      color_drawing_sprite_sheet_20: -3484455495124488806
+      color_drawing_sprite_sheet_21: -4695104319841855156
+      color_drawing_sprite_sheet_22: 2224329257050367476
+      color_drawing_sprite_sheet_23: 8657379090232754167
+      color_drawing_sprite_sheet_24: -7521864995182635702
+      color_drawing_sprite_sheet_25: 5658996182976894691
+      color_drawing_sprite_sheet_26: -2664769069057800194
+      color_drawing_sprite_sheet_27: 7355388899605694437
+      color_drawing_sprite_sheet_28: 7047050370514803433
+      color_drawing_sprite_sheet_29: -1799615721544028929
+      color_drawing_sprite_sheet_3: 153927256834184865
+      color_drawing_sprite_sheet_30: -182493144100591703
+      color_drawing_sprite_sheet_31: -2238515964180042892
+      color_drawing_sprite_sheet_32: -2323290922799130885
+      color_drawing_sprite_sheet_33: -7782829421066114744
+      color_drawing_sprite_sheet_34: 1852586454894727159
+      color_drawing_sprite_sheet_35: 2875871714013488806
+      color_drawing_sprite_sheet_36: -5774473215807621947
+      color_drawing_sprite_sheet_37: -7698880391644467665
+      color_drawing_sprite_sheet_38: -1323163486079955965
+      color_drawing_sprite_sheet_39: 7545643812016069596
+      color_drawing_sprite_sheet_4: 5726335712436475573
+      color_drawing_sprite_sheet_40: 6660496075218759378
+      color_drawing_sprite_sheet_41: -2406811484632344103
+      color_drawing_sprite_sheet_42: -7765082978950010794
+      color_drawing_sprite_sheet_43: 8160709076904702882
+      color_drawing_sprite_sheet_44: 3945117852237897340
+      color_drawing_sprite_sheet_45: -5676128622837337118
+      color_drawing_sprite_sheet_46: -4375596007511220872
+      color_drawing_sprite_sheet_47: -5012519692784015091
+      color_drawing_sprite_sheet_48: -2636423046559124505
+      color_drawing_sprite_sheet_49: -73826393993059291
+      color_drawing_sprite_sheet_5: 7215785851158057069
+      color_drawing_sprite_sheet_50: 3771522672927882554
+      color_drawing_sprite_sheet_51: 823871470061784060
+      color_drawing_sprite_sheet_52: -2737789813694117593
+      color_drawing_sprite_sheet_53: 1759422008513749962
+      color_drawing_sprite_sheet_54: 5023990390122177993
+      color_drawing_sprite_sheet_55: 3594173577511857747
+      color_drawing_sprite_sheet_56: 5054877278827055633
+      color_drawing_sprite_sheet_57: -1975744913859186143
+      color_drawing_sprite_sheet_58: 1443588072871605119
+      color_drawing_sprite_sheet_59: -838751792767361938
+      color_drawing_sprite_sheet_6: 4308522190152439960
+      color_drawing_sprite_sheet_60: 4293507315171049868
+      color_drawing_sprite_sheet_61: -2198761181165642739
+      color_drawing_sprite_sheet_62: 7361787362632875712
+      color_drawing_sprite_sheet_63: 6432159429220514461
+      color_drawing_sprite_sheet_64: -648839778145927481
+      color_drawing_sprite_sheet_65: 6584774099483706603
+      color_drawing_sprite_sheet_66: 325887987423562236
+      color_drawing_sprite_sheet_67: 2657434278735373270
+      color_drawing_sprite_sheet_68: -1107471117904858037
+      color_drawing_sprite_sheet_69: -8791602118146325459
+      color_drawing_sprite_sheet_7: 8374403490359106699
+      color_drawing_sprite_sheet_70: 4984510304602749587
+      color_drawing_sprite_sheet_71: 6263199178498698785
+      color_drawing_sprite_sheet_72: 4402987424650401591
+      color_drawing_sprite_sheet_73: 839632310755342854
+      color_drawing_sprite_sheet_74: 7658397785452446285
+      color_drawing_sprite_sheet_75: -7911794133111862122
+      color_drawing_sprite_sheet_76: -1533908492972371037
+      color_drawing_sprite_sheet_77: -6820703275310009398
+      color_drawing_sprite_sheet_78: -2638244342715753805
+      color_drawing_sprite_sheet_79: 8396519022405613646
+      color_drawing_sprite_sheet_8: 7465394332093439389
+      color_drawing_sprite_sheet_80: -8912454827912371766
+      color_drawing_sprite_sheet_81: 6699424303795393721
+      color_drawing_sprite_sheet_82: -3461274681243467070
+      color_drawing_sprite_sheet_83: 5330387219147225607
+      color_drawing_sprite_sheet_84: -7768488998729885664
+      color_drawing_sprite_sheet_85: -1990587272622280604
+      color_drawing_sprite_sheet_86: -7254738909270717417
+      color_drawing_sprite_sheet_87: -2224305062480104032
+      color_drawing_sprite_sheet_88: -4556548046239427061
+      color_drawing_sprite_sheet_89: -4919983007760310585
+      color_drawing_sprite_sheet_9: -6190085661611802107
+      color_drawing_sprite_sheet_90: -8420519685852178871
+      color_drawing_sprite_sheet_91: -2148707508889588307
+      color_drawing_sprite_sheet_92: 5201495737682248987
+      color_drawing_sprite_sheet_93: -8810473906699771055
+      color_drawing_sprite_sheet_94: 2870053472095771985
+      color_drawing_sprite_sheet_95: 2205269338369194476
+      color_drawing_sprite_sheet_96: 3941206479738081263
+      color_drawing_sprite_sheet_97: 524709373260788804
+      color_drawing_sprite_sheet_98: 6343681451831110369
+      color_drawing_sprite_sheet_99: 8991296985840128648
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
